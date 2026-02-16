@@ -1,6 +1,24 @@
 ﻿#EXTM3U url-tvg=http://iptv-content.webhop.net/guide.xml
+#EXTINF:-1 group-title="Спорт", Megogo Спорт HD
+http://gr.seetv.cc/play/1001/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="Спорт", Megogo Футбол 5 HD
+http://gr.seetv.cc/play/10011/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="Спорт", Setanta Sports Premium HD
+http://gr.seetv.cc/play/1650/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="Спорт", Setanta Sports Ukraine
+http://gr.seetv.cc/play/1434/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 group-title="Спорт", Setanta Sports+ Ukraine
+http://gr.seetv.cc/play/9957/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 group-title="Спорт", Setanta Sports 1 HD
+http://gr.seetv.cc/play/942/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 group-title="Спорт", Setanta Sports 2 HD
+http://gr.seetv.cc/play/943/D70CC021CA87DF2/video.m3u8
+#EXTINF: group-title="Спорт", Dynamo Kyiv TV
+http://gr.seetv.cc/play/8797/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="Спорт", СУСПІЛЬНЕ СПОРТ
-http://31.43.48.248:7000/ch112/video.m3u8
+http://gr.seetv.cc/play/316/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="Спорт", СУСПІЛЬНЕ СПОРТ
+http://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8
 #EXTINF:-1 group-title="Спорт", XSPORT
 http://31.43.48.248:7000/ch109/video.m3u8
 #EXTINF:-1 group-title="Спорт", XSPORT +
@@ -1177,6 +1195,8 @@ http://31.43.48.248:7000/ch139/video.m3u8
 http://tv.ttk.mx:9023
 #EXTINF:-1 group-title="МУЗИКА", ШАНСОН
 http://tv.ttk.mx:9062
+#EXTINF:-1 group-title="777", АНЕКДОТ
+https://fl1001.bozztv.com/ushba81/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="777",Voprosi i otveti
 http://tv.ttk.mx:9038
 #EXTINF:-1 group-title="777",ЕРАЛАШ
