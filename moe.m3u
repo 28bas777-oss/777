@@ -1,5 +1,4 @@
 ﻿#EXTM3U url-tvg=http://iptv-content.webhop.net/guide.xml
-
 #EXTINF:-1 group-title="Спорт", СУСПІЛЬНЕ СПОРТ
 http://31.43.48.248:7000/ch112/video.m3u8
 #EXTINF:-1 group-title="Спорт", XSPORT
@@ -14,6 +13,16 @@ https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 http://176.96.241.40/Eurosport1/index.m3u8
 #EXTINF:-1 group-title="Спорт", EUROSPORT 2
 http://176.96.241.40/Eurosport2/index.m3u8
+#EXTINF:-1 group-title="Спорт",SETANTA SPORTS 1 s
+http://lutvil.ddns.net:8087/setan1/video.m3u8?token=2d2b79beec2eeb637fc7b4030ae110ff#
+EXTINF:-1 group-title="Спорт",SETANTA SPORTS 2 s
+http://lutvil.ddns.net:8087/setan2/index.m3u8?token=8234b5aee0346e5c4bda72a92aedc635#
+EXTINF:-1 group-title="Спорт",SETANTA SPORTS + UA s
+http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/5068/index.m3u8
+EXTINF:-1 group-title="Спорт", EUROSPORT 1 s
+http://lutvil.ddns.net:8087/eurosport1/video.m3u8?token=eec6ba74d8b1d93da6ead3e4c1def346#
+EXTINF:-1 group-title="Спорт", EUROSPORT 2 s
+http://lutvil.ddns.net:8087/eurosport2/video.m3u8?token=75ffec6df735d515d4a20c07f51ee2dd
 #EXTINF:-1 group-title="Спорт",Русский Экстрим
 http://tv.ttk.mx:9095
 #EXTINF:-1 group-title="Спорт",Матч ТВ
@@ -204,7 +213,6 @@ http://31.131.141.195:8000/play/2100/index.m3u8
 http://31.131.141.195:8000/play/1080/index.m3u8
 #EXTINF:-1 group-title="Сириус",Матч ТВ
 http://31.131.141.195:8000/play/1030/index.m3u8
-
 #EXTINF:-1 group-title="Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Доктор Достоевский
 https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Star Media
@@ -359,7 +367,6 @@ https://fl1001.bozztv.com/ushba-m9/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba-m1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Fashion Channel
 https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="RELAX" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLXM_LOUNGE_LOGO.png",Deluxe Lounge HD
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
 #EXTINF:-1 group-title="RELAX" tvg-logo="https://i.imgur.com/LMHrQJu.png",Better Life Nature Channel
@@ -506,7 +513,6 @@ http://31.43.48.248:7000/ch345/video.m3u8
 http://31.43.48.248:7000/ch347/video.m3u8
 #EXTINF:-1 group-title="RELAX", НІЧ
 http://31.43.48.248:7000/ch349/video.m3u8
-
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://pobeda.tv/images/logo_header.png",Победа
 #EXTVLCOPT:http-referrer=https://pobeda.tv/
 https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b5128000_slru.m3u8
@@ -841,7 +847,6 @@ https://simf.1tvcrimea.ru/simferopol24.m3u8
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/qazaqstantv/qazaqstantv_720/chunks.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://www.samru.ru/content/Image/News/logo/gis_logo1.jpg",Телеканал ГИС Самара
 https://tvsamaragis.tk/new/new/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="IP Petrosyan (VPN)",РЕН ТВ
 http://95.47.156.60:8000/play/11/index.m3u8
 #EXTINF:-1 group-title="IP Petrosyan (VPN)",РОССИЯ К
@@ -964,6 +969,8 @@ http://tv.ttk.mx:9103
 http://tv.ttk.mx:9102
 #EXTINF:-1 group-title="КІНО", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
 http://tv.ttk.mx:9169
+#EXTINF:-1 group-title="КІНО", s
+http://lutvil.ddns.net:8087/ussr/index.m3u8?token=56a91f1dafc43262fa58f29af348534b
 #EXTINF:-1 group-title="КІНО", КОМЕДИЯ
 http://tv.ttk.mx:9050
 #EXTINF:-1 group-title="КІНО", РУССКИЙ ДЕТЕКТИВ
@@ -1170,7 +1177,6 @@ http://31.43.48.248:7000/ch139/video.m3u8
 http://tv.ttk.mx:9023
 #EXTINF:-1 group-title="МУЗИКА", ШАНСОН
 http://tv.ttk.mx:9062
-
 #EXTINF:-1 group-title="777",Voprosi i otveti
 http://tv.ttk.mx:9038
 #EXTINF:-1 group-title="777",ЕРАЛАШ
@@ -1179,9 +1185,9 @@ http://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 http://158.101.222.193:88/georgia_play.php?id=kvntv
 #EXTINF:-1 group-title="777", KVARTAL
 http://31.43.48.248:7000/ch65/video.m3u8
+#EXTINF:-1 group-title="777", s
+http://live.adultiptv.net/milf.m3u8
 #EXTINF:-1 group-title="777", ЖД
 http://31.43.48.248:7000/ch348/video.m3u8
-
-
 
 
