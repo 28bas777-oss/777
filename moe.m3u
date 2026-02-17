@@ -1,6 +1,8 @@
 ﻿#EXTM3U url-tvg=http://iptv-content.webhop.net/guide.xml
 #EXTINF:-1 group-title="Спорт", Megogo Спорт HD
 http://gr.seetv.cc/play/1001/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="Спорт", Megogo Спорт HD admin 
+http://lb.cyriustv.ru/lb01/Megogo_Sport_HD/index.m3u8?token=admin_1234
 #EXTINF:-1 group-title="Спорт", Megogo Футбол 5 HD
 http://gr.seetv.cc/play/10011/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports Premium HD
@@ -17,8 +19,8 @@ http://gr.seetv.cc/play/943/D70CC021CA87DF2/video.m3u8
 http://gr.seetv.cc/play/8797/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="Спорт", СУСПІЛЬНЕ СПОРТ
 http://gr.seetv.cc/play/316/D70CC021CA87DF2/video.m3u8
-#EXTINF:-1 group-title="Спорт", СУСПІЛЬНЕ СПОРТ
-http://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8
+#EXTINF:-1 group-title="Спорт", СУСПІЛЬНЕ СПОРТ admin 
+http://lb.cyriustv.ru/lb01/Suspilne_Sport_HD/index.m3u8?token=admin_1234
 #EXTINF:-1 group-title="Спорт", XSPORT
 http://31.43.48.248:7000/ch109/video.m3u8
 #EXTINF:-1 group-title="Спорт", XSPORT +
@@ -27,20 +29,16 @@ http://31.43.48.248:7000/ch117/video.m3u8
 https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",SETANTA SPORTS 2
 https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт", EUROSPORT 1 admin 
+http://lb.cyriustv.ru/lb01/eurosport-1-hd/index.m3u8?token=admin_1234
 #EXTINF:-1 group-title="Спорт", EUROSPORT 1
 http://176.96.241.40/Eurosport1/index.m3u8
 #EXTINF:-1 group-title="Спорт", EUROSPORT 2
 http://176.96.241.40/Eurosport2/index.m3u8
-#EXTINF:-1 group-title="Спорт",SETANTA SPORTS 1 s
-http://lutvil.ddns.net:8087/setan1/video.m3u8?token=2d2b79beec2eeb637fc7b4030ae110ff#
-EXTINF:-1 group-title="Спорт",SETANTA SPORTS 2 s
-http://lutvil.ddns.net:8087/setan2/index.m3u8?token=8234b5aee0346e5c4bda72a92aedc635#
-EXTINF:-1 group-title="Спорт",SETANTA SPORTS + UA s
-http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/5068/index.m3u8
-EXTINF:-1 group-title="Спорт", EUROSPORT 1 s
-http://lutvil.ddns.net:8087/eurosport1/video.m3u8?token=eec6ba74d8b1d93da6ead3e4c1def346#
-EXTINF:-1 group-title="Спорт", EUROSPORT 2 s
-http://lutvil.ddns.net:8087/eurosport2/video.m3u8?token=75ffec6df735d515d4a20c07f51ee2dd
+#EXTINF:-1 group-title="Спорт", SETANTA SPORTS 1 UA admin 
+http://lb.cyriustv.ru/lb01/setantasportshdua/index.m3u8?token=admin_1234
+#EXTINF:-1 group-title="Спорт", EUROSPORT 2 UA admin 
+http://lb.cyriustv.ru/lb01/eurosport2ua/index.m3u8?token=admin_1234
 #EXTINF:-1 group-title="Спорт",Русский Экстрим
 http://tv.ttk.mx:9095
 #EXTINF:-1 group-title="Спорт",Матч ТВ
