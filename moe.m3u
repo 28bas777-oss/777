@@ -91,6 +91,37 @@ http://iptv.prosto.tv:7000/ch111/video.m3u8
 http://iptv.prosto.tv:7000/ch326/video.m3u8
 #EXTINF:-1 group-title="Спорт", EQUALYMPIC
 http://31.43.48.248:7000/ch215/video.m3u8
+#EXTINF:-1 group-title="Спорт",UPL.TV
+http://ip1.orgip.net/212/video.m3u8?token=A37feb3eec
+#EXTINF:-1 group-title="Спорт",VIJU+ SPORT
+http://ip1.orgip.net/215/video.m3u8?token=A37feb3eec
+#EXTINF:-1 group-title="Спорт",XSPORT
+http://ip1.orgip.net/217/video.m3u8?token=A37feb3eec
+#EXTINF:-1 group-title="Спорт",SETANTA SPORTS 1
+http://ip1.orgip.net/220/video.m3u8?token=A37feb3eec
+#EXTINF:-1 group-title="Спорт",SETANTA SPORTS 2
+http://ip1.orgip.net/221/video.m3u8?token=A37feb3eec
+#EXTINF:-1 group-title="Спорт",SETANTA SPORTS UKRAINE
+http://ip1.orgip.net/222/video.m3u8?token=A37feb3eec
+#EXTINF:-1 group-title="Спорт",SETANTA SPORTS UKRAINE +
+http://ip1.orgip.net/214/video.m3u8?token=A37feb3eec
+#EXTINF:-1 group-title="Спорт",ОККО ФУТБОЛ HD
+http://ip1.orgip.net/232/video.m3u8?token=A37feb3eec
+#EXTINF:-1 group-title="Спорт",MEGOGO ФУТБОЛ 1 HD
+http://ip1.orgip.net/233/video.m3u8?token=A37feb3eec
+#EXTINF:-1 group-title="Спорт",MEGOGO ФУТБОЛ 2 HD
+http://ip1.orgip.net/234/video.m3u8?token=A37feb3eec
+#EXTINF:-1 group-title="Спорт",MEGOGO ФУТБОЛ 3 HD
+http://ip1.orgip.net/235/video.m3u8?token=A37feb3eec
+#EXTINF:-1 group-title="Спорт",ОККО ПРАЙМ СПОРТ
+http://ip1.orgip.net/236/video.m3u8?token=A37feb3eec
+#EXTINF:-1 group-title="Спорт",MEGOGO СПОРТ HD
+http://ip1.orgip.net/237/video.m3u8?token=A37feb3eec
+#EXTINF:-1 group-title="Спорт",ОККО СПОРТ HD
+http://ip1.orgip.net/238/video.m3u8?token=A37feb3eec
+#EXTINF:-1 group-title="Спорт",СУСПІЛЬНЕ СПОРТ
+http://ip1.orgip.net/240/video.m3u8?token=A37feb3eec
+
 #EXTINF:-1 group-title="УКРАЇНА", ПЕРШИЙ
 http://31.43.48.248:7000/ch153/video.m3u8
 #EXTINF:-1 group-title="УКРАЇНА", СУСПІЛЬНЕ ХАРКІВ
@@ -1203,9 +1234,51 @@ http://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 http://158.101.222.193:88/georgia_play.php?id=kvntv
 #EXTINF:-1 group-title="777", KVARTAL
 http://31.43.48.248:7000/ch65/video.m3u8
-#EXTINF:-1 group-title="777", s
-http://live.adultiptv.net/milf.m3u8
 #EXTINF:-1 group-title="777", ЖД
 http://31.43.48.248:7000/ch348/video.m3u8
+#EXTINF:-1 group-title="ТЕСТ",MM КАТАСТРОФА
+https://tinyurl.com/aleks-u-romki-53/13034/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",MM ИСТОРИЯ
+https://tinyurl.com/aleks-u-romki-53/13033/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",MM ЗАТМЕНИЕ
+https://tinyurl.com/aleks-u-romki-53/13032/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",MM RELAX
+https://tinyurl.com/aleks-u-romki-53/13030/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",MM ВОРОНИНЫ
+https://tinyurl.com/aleks-u-romki-53/13031/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",MM HONEY
+https://tinyurl.com/aleks-u-romki-53/13026/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",MM ГРАЙНД ХАУС
+https://tinyurl.com/aleks-u-romki-53/13025/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",MM Агата Кристи
+https://tinyurl.com/aleks-u-romki-53/13024/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",MM World
+https://tinyurl.com/aleks-u-romki-53/13023/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",MM USSR Комедия HD
+https://tinyurl.com/aleks-u-romki-53/13019/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",MM USSR Детектив HD
+https://tinyurl.com/aleks-u-romki-53/13096/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",MM USSR Драма HD
+https://tinyurl.com/aleks-u-romki-53/13022/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",MM USSR 1941-1945 HD
+https://tinyurl.com/aleks-u-romki-53/13018/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",MM USSR Приключения HD
+https://tinyurl.com/aleks-u-romki-53/13060/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",MM USSR Сказки HD
+https://tinyurl.com/aleks-u-romki-53/13021/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",MM USSR Мультфильм HD
+https://tinyurl.com/aleks-u-romki-53/13020/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",MM USSR Мультфильм HD
+https://tinyurl.com/aleks-u-romki-47/13020/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",MM Скорость HD
+http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
+#EXTINF:-1 group-title="ТЕСТ",Кинозал 👀 1
+https://tinyurl.com/aleks-u-romki-53/13027/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",Кинозал 👀 2
+https://tinyurl.com/aleks-u-romki-53/13028/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",Кинозал 👀 3
+https://tinyurl.com/aleks-u-romki-53/13029/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",Кинозал 👀 4
+http://185.57.68.33/237/mpegts
 
 
