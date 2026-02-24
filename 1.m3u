@@ -121,6 +121,17 @@ http://ip1.orgip.net/237/video.m3u8?token=A37feb3eec
 http://ip1.orgip.net/238/video.m3u8?token=A37feb3eec
 #EXTINF:-1 group-title="Спорт",СУСПІЛЬНЕ СПОРТ
 http://ip1.orgip.net/240/video.m3u8?token=A37feb3eec
+http://tv.a21network.ru/content/37909/index.m3u8
+#EXTINF:-1 group-title="Спорт",Vital Drive
+http://autopilot.catcast.tv/content/37909/index.m3u8
+#EXTINF:-1 group-title="Спорт",Sport 1 HD
+http://87.246.54.249:8080/ArenaSport1/index.m3u8
+#EXTINF:-1 group-title="Спорт",Sport 2 HD
+http://87.246.54.249:8080/ArenaSport2/index.m3u8
+#EXTINF:-1 group-title="Спорт",Sport 3 HD
+http://87.246.54.249:8080/ArenaSport3/index.m3u8
+#EXTINF:-1 group-title="Спорт",Sport 4 HD
+http://87.246.54.249:8080/ArenaSport4/index.m3u8
 
 #EXTINF:-1 group-title="УКРАЇНА", ПЕРШИЙ
 http://31.43.48.248:7000/ch153/video.m3u8
@@ -520,8 +531,6 @@ http://31.43.48.248:7000/ch316/video.m3u8
 http://31.43.48.248:7000/ch317/video.m3u8
 #EXTINF:-1 group-title="RELAX", КАМІН RELAXON
 http://31.43.48.248:7000/ch318/video.m3u8
-#EXTINF:-1 group-title="999", ZOO
-http://31.43.48.248:7000/ch319/video.m3u8
 #EXTINF:-1 group-title="RELAX", ВОДОПАД
 http://31.43.48.248:7000/ch329/video.m3u8
 #EXTINF:-1 group-title="RELAX", ЗИМА
@@ -548,8 +557,6 @@ http://31.43.48.248:7000/ch339/video.m3u8
 http://31.43.48.248:7000/ch341/video.m3u8
 #EXTINF:-1 group-title="RELAX", ГОРИ
 http://31.43.48.248:7000/ch340/video.m3u8
-#EXTINF:-1 group-title="999", PROSTO FISHING
-http://31.43.48.248:7000/ch344/video.m3u8
 #EXTINF:-1 group-title="RELAX", КРАЄВИД
 http://31.43.48.248:7000/ch343/video.m3u8
 #EXTINF:-1 group-title="RELAX", ФЛОРА
@@ -1226,6 +1233,8 @@ http://tv.ttk.mx:9023
 http://tv.ttk.mx:9062
 #EXTINF:-1 group-title="777", АНЕКДОТ
 https://fl1001.bozztv.com/ushba81/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="777", Твоё ТВ Юмор
+https://tvoetv.space/tvoetv_humor/index.m3u8
 #EXTINF:-1 group-title="777",Voprosi i otveti
 http://tv.ttk.mx:9038
 #EXTINF:-1 group-title="777",ЕРАЛАШ
@@ -1236,6 +1245,10 @@ http://158.101.222.193:88/georgia_play.php?id=kvntv
 http://31.43.48.248:7000/ch65/video.m3u8
 #EXTINF:-1 group-title="777", ЖД
 http://31.43.48.248:7000/ch348/video.m3u8
+#EXTINF:-1 group-title="777",Совершенно секретно
+https://tv.tvcdnpotok.com/LcWvPcjDq5ULcHWXiuQOGQ/546/1771953256/index.m3u8
+#EXTINF:-1 group-title="777",С
+https://s.viks.tv/W_oOSNv0yBLDIvA97DV_3w/208/1771962385/index.m3u8 
 #EXTINF:-1 group-title="ТЕСТ",MM КАТАСТРОФА
 https://tinyurl.com/aleks-u-romki-53/13034/index.m3u8
 #EXTINF:-1 group-title="ТЕСТ",MM ИСТОРИЯ
