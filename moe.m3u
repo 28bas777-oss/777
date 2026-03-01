@@ -1,13 +1,13 @@
 ﻿#EXTM3U url-tvg=http://iptv-content.webhop.net/guide.xml
-#EXTINF:-1 group-title="Спорт",СУСПІЛЬНЕ СПОРТ
+#EXTINF:-1 group-title="Спорт",т СУСПІЛЬНЕ СПОРТ
 http://ip1.orgip.net/240/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="Спорт",SETANTA SPORTS 1
+#EXTINF:-1 group-title="Спорт",т SETANTA SPORTS 1
 http://ip1.orgip.net/220/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="Спорт",SETANTA SPORTS 2
+#EXTINF:-1 group-title="Спорт",т SETANTA SPORTS 2
 http://ip1.orgip.net/221/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="Спорт",SETANTA SPORTS UKRAINE
+#EXTINF:-1 group-title="Спорт",т SETANTA SPORTS UKRAINE
 http://ip1.orgip.net/222/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="Спорт",SETANTA SPORTS UKRAINE +
+#EXTINF:-1 group-title="Спорт",т SETANTA SPORTS UKRAINE +
 http://ip1.orgip.net/214/video.m3u8?token=A37feb3eec
 #EXTINF:-1 group-title="Спорт",o SETANTA SPORTS UKRAINE
 http://ott.server-iptv.live/222/video.m3u8?token=A0c5dffe26&21yo=0?|
@@ -17,13 +17,13 @@ http://ott.server-iptv.live/214/video.m3u8?token=A0c5dffe26&21yo=0?
 http://ott.server-iptv.live/200/video.m3u8?token=A0c5dffe26&21yo=0?|
 #EXTINF:-1 group-title="Спорт", o EUROSPORT 2
 http://ott.server-iptv.live/201/video.m3u8?token=A0c5dffe26&21yo=0?|
-#EXTINF:-1 group-title="Спорт",Setanta Sports 1 HD
+#EXTINF:-1 group-title="Спорт",Setanta Sports 1 HD 
 https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports 2 HD
 https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт",Setanta Sports HD (UA)
+#EXTINF:-1 group-title="Спорт",Setanta Sports HD (UA) т
 http://streamer.enchart.one/42/c34bcdb0a22bdd610d3ce4c983a32d9ea19b3795/186/stream.m3u8
-#EXTINF:-1 group-title="Спорт",Setanta Sports+ HD (UA)
+#EXTINF:-1 group-title="Спорт",Setanta Sports+ HD (UA) т
 http://streamer.enchart.one/42/c34bcdb0a22bdd610d3ce4c983a32d9ea19b3795/187/stream.m3u8
 #EXTINF:-1 group-title="Спорт", XSPORT
 http://31.43.48.248:7000/ch109/video.m3u8
@@ -1240,7 +1240,7 @@ http://31.43.48.248:7000/ch65/video.m3u8
 http://31.43.48.248:7000/ch348/video.m3u8
 #EXTINF:-1 group-title="777",Совершенно секретно
 http://hls127.freeott.top:8080/Sovershenno_Sekretno/mono.m3u8
-#EXTINF:-1 group-title="777",Tinto Brass
+#EXTINF:-1 group-title="777",Tinto Brass т
 http://streamer.enchart.one/42/c34bcdb0a22bdd610d3ce4c983a32d9ea19b3795/3184/stream.m3u8
 #EXTINF:-1 group-title="ТЕСТ",MM КАТАСТРОФА
 https://tinyurl.com/aleks-u-romki-53/13034/index.m3u8
