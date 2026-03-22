@@ -1350,7 +1350,7 @@ http://streamer.enchart.one/42/c34bcdb0a22bdd610d3ce4c983a32d9ea19b3795/269/stre
 #EXTINF:-1 group-title="☺ Спорт",т СУСПІЛЬНЕ СПОРТ
 http://ip1.orgip.net/240/video.m3u8?token=A37feb3eec
 #EXTINF:-1 group-title="☺ Спорт",СУСПІЛЬНЕ СПОРТ
-http://176.122.99.7:7000/ch0112/video.m3u8
+https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/Suspilne-Sport/master.m3u8
 #EXTINF:-1 group-title="☺ Спорт",т SETANTA SPORTS 1
 http://ip1.orgip.net/220/video.m3u8?token=A37feb3eec
 #EXTINF:-1 group-title="☺ Спорт",т SETANTA SPORTS 2
@@ -1367,6 +1367,10 @@ https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 http://streamer.enchart.one/42/c34bcdb0a22bdd610d3ce4c983a32d9ea19b3795/186/stream.m3u8
 #EXTINF:-1 group-title="☺ Спорт",Setanta Sports+ HD (UA) т
 http://streamer.enchart.one/42/c34bcdb0a22bdd610d3ce4c983a32d9ea19b3795/187/stream.m3u8
+#EXTINF:-1 group-title="☺ Спорт",SETANTA SPORTS 1
+http://188.225.31.197/bpk-tv/000004498/tve/index.m3u8
+#EXTINF:-1 group-title="☺ Спорт",SETANTA SPORTS 2
+http://188.225.31.197/bpk-tv/000004499/tve/index.m3u8
 #EXTINF:-1 group-title="☺ Спорт", XSPORT
 http://31.43.48.248:7000/ch109/video.m3u8
 #EXTINF:-1 group-title="☺ Спорт", XSPORT +
@@ -1431,6 +1435,8 @@ http://31.43.48.248:7000/ch119/video.m3u8
 http://ak.fly47.be:80/Emrullah20/X9J5VbPtxD/247370
 #EXTINF:-1 group-title="☺ Спорт", F1
 http://xxip9.top:8080/live/Rickcarrier12@gmail.com/XutxCLSk4m/125947.ts
+#EXTINF:-1 group-title="☺ Спорт", F1
+https://7pal.short.gy/ssportsf1
 #EXTINF:-1 group-title="☺ Спорт", CARS STARS TV HD
 http://iptv.prosto.tv:7000/ch111/video.m3u8
 #EXTINF:-1 group-title="☺ Спорт", PROSTO DRIVE
