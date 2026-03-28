@@ -2504,13 +2504,40 @@ http://158.101.222.193:88/georgia_play.php?id=nostalgy
 #EXTINF:-1 group-title="☺ RUSTV",Ностальгия [R]
 http://31.148.48.15:80/Nostalgiya/index.m3u8
 
-#EXTINF:-1 tvg-name="Назад в СССР" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="☺ КІНО",Назад в СССР
+#EXTINF:-1 group-title="☺ КІНО",Назад в СССР
 http://kinowalk.hopto.org/backtotheussr_live
 #EXTINF:-1 group-title="☺ КІНО", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
 http://46.53.208.4:80/live/1124.m3u8
-
+#EXTINF:-1 group-title="☺ КІНО",Ретро
+http://176.118.197.101/Retro/index.m3u8
+#EXTINF:-1 group-title="☺ КІНО",Ностальгия 
+http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
+#EXTINF:-1 group-title="☺ КІНО",illuzionplus
+http://158.101.222.193:88/georgia_play.php?id=illuzionplus
+#EXTINF:-1 group-title="☺ КІНО",Kineko
+http://31.148.48.15/Kineko/index.m3u8
+#EXTINF:-1 group-title="☺ КІНО", КИНОХИТ
+http://158.101.222.193:88/georgia_play.php?id=kinohit
+#EXTINF:-1 group-title="☺ КІНО", КИНОКОМЕДИЯ
+http://158.101.222.193:88/georgia_play.php?id=kinokomediya
+#EXTINF:-1 group-title="☺ КІНО", Киномикс
+http://158.101.222.193:88/georgia_play.php?id=kinomiks
+#EXTINF:-1 group-title="☺ КІНО", КИНОСЕМЬЯ
+http://158.101.222.193:88/georgia_play.php?id=kinosemya
+#EXTINF:-1 group-title="☺ КІНО", КИНОСЕРИЯ
+http://158.101.222.193:88/georgia_play.php?id=kinoseria
+#EXTINF:-1 group-title="☺ КІНО", КИНОСВИДАНИЕ
+http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
+#EXTINF:-1 group-title="☺ КІНО",Иллюзион+
+http://185.46.16.239:8000/Illyuzion+
+#EXTINF:-1 group-title="☺ КІНО",kinosvidanie
+http://5.188.159.128:8070/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="☺ КІНО",kinosweet HD
+http://193.27.209.122/kinosweet/index.m3u8
+#EXTINF:-1 group-title="☺ КІНО",Kinowood
+http://193.27.209.122/kinowood/index.m3u8
 #EXTINF:-1 group-title="☺ КІНО", HOLLYWOOD
-http://31.43.48.248:7000/ch157/video.m3u8
+https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="☺ КІНО", BollywooD
 http://31.43.48.248:7000/ch61/video.m3u8
 #EXTINF:-1 group-title="☺ КІНО", 4EVER CINEMA
@@ -2667,8 +2694,8 @@ https://fl1001.bozztv.com/ushba81/tracks-v1a1/mono.m3u8
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 group-title="☺ 777", Твоё ТВ 
 http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:-1 group-title="☺ 777",Voprosi i otveti
-http://tv.ttk.mx:9038
+#EXTINF:-1 group-title="☺ 777", Вопросы и ответы
+http://178.212.71.253:8080/play/97/index.m3u8
 #EXTINF:-1 group-title="☺ 777",ЕРАЛАШ
 http://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="☺ 777", КВН ТВ
