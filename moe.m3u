@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="http://tapitv.com/ttv.xmltv.xml.gz"
+﻿#EXTM3U
 #EXTINF:-1 group-title="АВТОРСКИЕ", ALISATV ACTION
 http://streamer.enchart.one/42/c34bcdb0a22bdd610d3ce4c983a32d9ea19b3795/3077/stream.m3u8
 #EXTINF:-1 group-title="АВТОРСКИЕ", ALISATV ANIME
