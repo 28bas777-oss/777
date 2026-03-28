@@ -1,4 +1,4 @@
-﻿#EXTM3U
+﻿#EXTM3U url-tvg="http://tapitv.com/ttv.xmltv.xml.gz"
 #EXTINF:-1 group-title="АВТОРСКИЕ", ALISATV ACTION
 http://streamer.enchart.one/42/c34bcdb0a22bdd610d3ce4c983a32d9ea19b3795/3077/stream.m3u8
 #EXTINF:-1 group-title="АВТОРСКИЕ", ALISATV ANIME
@@ -1394,7 +1394,7 @@ http://87.246.54.249:8080/Eurosport/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", EUROSPORT 2
 http://87.246.54.249:8080/Eurosport2/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", РУССКИЙ ЭКСТРИМ
-http://tv.ttk.mx:9095
+http://85.208.223.249:8888/play/a004
 #EXTINF:-1 group-title="☺ СПОРТ", МАТЧ ТВ
 http://catchup.videoline.ru/match/playlist.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", МАТЧ! ИГРА
@@ -1420,7 +1420,7 @@ http://tv.ttk.mx:9112
 #EXTINF:-1 group-title="☺ СПОРТ", БОКС ТВ
 http://158.101.222.193:88/georgia_play.php?id=boxtv
 #EXTINF:-1 group-title="☺ СПОРТ", VIJU+ SPORT
-http://tv.ttk.mx:9187
+http://158.101.222.193:88/georgia_play.php?id=viasatsport
 #EXTINF:-1 group-title="☺ СПОРТ", KHL
 https://stream8.cinerama.uz/1422/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", MMA TV
@@ -2489,6 +2489,8 @@ http://158.101.222.193:88/georgia_play.php?id=nostalgy
 http://31.148.48.15:80/Nostalgiya/index.m3u8
 #EXTINF:-1 group-title="☺ КІНО", НАЗАД В СССР
 http://kinowalk.hopto.org/backtotheussr_live
+#EXTINF:-1 group-title="☺ КІНО", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
+http://178.212.71.253:8080/play/124/index.m3u8
 #EXTINF:-1 group-title="☺ КІНО", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
 http://46.53.208.4:80/live/1124.m3u8
 #EXTINF:-1 group-title="☺ КІНО", РЕТРО
