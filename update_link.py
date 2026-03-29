@@ -38,7 +38,7 @@ def get_stream_link(channel):
         print(f"Длина полученного кода страницы: {len(response.text)}")
 if "Контент недоступний" in response.text or "not available" in response.text:
     print(f"ВНИМАНИЕ: Похоже, сайт заблокировал доступ для сервера GitHub")
-        
+     return None   
         match = re.search(channel['regex'], response.text)
         if match:
             return match.group(0)
