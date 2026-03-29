@@ -35,6 +35,9 @@ def get_stream_link(channel):
         print(f"Ищу ссылку для: {channel['name']}...")
         response = requests.get(channel['url'], headers=HEADERS, timeout=15)
         response.raise_for_status()
+        print(f"Длина полученного кода страницы: {len(response.text)}")
+if "Контент недоступний" in response.text or "not available" in response.text:
+    print(f"ВНИМАНИЕ: Похоже, сайт заблокировал доступ для сервера GitHub")
         
         match = re.search(channel['regex'], response.text)
         if match:
