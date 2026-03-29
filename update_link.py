@@ -11,12 +11,12 @@ CHANNELS = [
         "logo": "https://suspilne.media/favicon.ico"
     },
     {
-        "name": "Суспільне Київ",
-        "url": "https://suspilne.media/kyiv/live/",
-        "regex": r'https://[^\s"\'<>]+?\.m3u8\?key=[^\s"\'<>]+',
-        "logo": "https://suspilne.media/favicon.ico"
-    },
-    # Сюда можно добавлять новые каналы по аналогии
+        "name": "ТВ-3 (Viks)",
+        "url": "http://live.viks.tv/tv3/",
+        # Для Viks регулярка может быть чуть другой, пробуем универсальную:
+        "regex": r'https?://[^\s"\'<>]+?\.m3u8[^\s"\'<>]*',
+        "logo": "http://viks.tv/favicon.ico"
+    }
 ]
 
 FILE_NAME = "playlist.m3u"
