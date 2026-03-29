@@ -32,18 +32,27 @@ HEADERS = {
 
 def get_stream_link(channel):
     try:
-        print(f"Ищу ссылку для: {channel['name']}...")
+        print(f"--- Проверяю канал: {channel['name']} ---")
         response = requests.get(channel['url'], headers=HEADERS, timeout=15)
-        response.raise_for_status()
+        
+        # Твоя проверка (теперь внутри try/except)
         print(f"Длина полученного кода страницы: {len(response.text)}")
-if "Контент недоступний" in response.text or "not available" in response.text:
-    print(f"ВНИМАНИЕ: Похоже, сайт заблокировал доступ для сервера GitHub")
+        
+        if "Контент недоступний" in response.text or "not available" in response.text:
+            print(f"ВНИМАНИЕ: Сайт выдает заглушку о недоступности контента!")
+            return None
 
-match = re.search(channel['regex'], response.text)
+        # Ищем ссылку
+        match = re.search(channel['regex'], response.text)
         if match:
-            return match.group(0)
+            link = match.group(0)
+            print(f"Успех! Ссылка найдена.")
+            return link
+        else:
+            print(f"Регулярное выражение ничего не нашло. Возможно, структура сайта изменилась.")
+            
     except Exception as e:
-        print(f"Ошибка при поиске {channel['name']}: {e}")
+        print(f"Ошибка при запросе к {channel['name']}: {e}")
     return None
 
 def main():
