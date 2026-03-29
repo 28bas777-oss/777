@@ -6,7 +6,7 @@ import re
 CHANNELS = [
     {
         "name": "Суспільне Спорт",
-        "url": "https://suspilne.media/sport/live/",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
         "regex": r'https://[^\s"\'<>]+?\.m3u8\?key=[^\s"\'<>]+',
         "logo": "https://suspilne.media/favicon.ico"
     },
