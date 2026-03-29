@@ -11,6 +11,12 @@ CHANNELS = [
         "logo": "https://suspilne.media/favicon.ico"
     },
     {
+        "name": "Суспільне Харків",
+        "url": "https://suspilne.media/kharkiv/live/",
+        "regex": r'https://[^\s"\'<>]+?\.m3u8\?key=[^\s"\'<>]+',
+        "logo": "https://suspilne.media/favicon.ico"
+    },
+    {
         "name": "ТВ-3 (Viks)",
         "url": "http://live.viks.tv/tv3/",
         # Для Viks регулярка может быть чуть другой, пробуем универсальную:
