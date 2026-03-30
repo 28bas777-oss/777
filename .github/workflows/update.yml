@@ -24,7 +24,7 @@ jobs:
         run: pip install requests
 
       - name: Run update script
-        run: python proxytv_list_pl.py
+        run: python update_link.py
 
       - name: Commit and push changes
         run: |
