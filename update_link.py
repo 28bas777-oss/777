@@ -18,7 +18,7 @@ CHANNELS = [
     },
     {
         "name": "ТВ-3 (Viks)",
-        "url": "http://live.viks.tv/tv3/",
+        "url": "https://telik.live/priklyucheniya-hd.html",
         # Для Viks регулярка может быть чуть другой, пробуем универсальную:
         "regex": r'https?://[^\s"\'<>]+?\.m3u8[^\s"\'<>]*',
         "logo": "http://viks.tv/favicon.ico"
