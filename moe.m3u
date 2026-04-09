@@ -2493,6 +2493,8 @@ http://kinowalk.hopto.org/backtotheussr_live
 http://178.212.71.253:8080/play/124/index.m3u8
 #EXTINF:-1 group-title="☺ КІНО", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
 http://46.53.208.4:80/live/1124.m3u8
+#EXTINF:-1 group-title="☺ КІНО", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
+http://178.134.1.158:8081/mosfilm/index.m3u8
 #EXTINF:-1 group-title="☺ КІНО", РЕТРО
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 group-title="☺ КІНО", НОСТАЛЬГИЯ
@@ -2503,6 +2505,16 @@ http://158.101.222.193:88/georgia_play.php?id=illuzionplus
 http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="☺ КІНО", НТВ-Сериал
 http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="☺ КІНО", Любимое кино
+http://176.118.197.101/LubimoeKino/index.m3u8
+#EXTINF:-1 group-title="☺ КІНО", Народ Всё Видит
+http://188.225.31.197/bpk-tv/000008614/tve/index.m3u8
+#EXTINF:-1 group-title="☺ КІНО", ТЕХ ЛЕТ ТВ
+http://46.53.208.4/live/9489.m3u8
+#EXTINF:-1 group-title="☺ КІНО", Тик Ток
+https://fl1001.bozztv.com/ushba61/index.m3u8
+#EXTINF:-1 group-title="☺ КІНО", КОМЕДИЯ
+http://176.118.197.101/Komediya/index.m3u8
 #EXTINF:-1 group-title="☺ КІНО", KINEKO
 http://31.148.48.15/Kineko/index.m3u8
 #EXTINF:-1 group-title="☺ КІНО", КИНОХИТ
@@ -2519,6 +2531,20 @@ http://158.101.222.193:88/georgia_play.php?id=kinoseria
 http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
 #EXTINF:-1 group-title="☺ КІНО", ИЛЛЮЗИОН+
 http://185.46.16.239:8000/Illyuzion+
+#EXTINF:-1 group-title="☺ КІНО, Смотрим 100% Классика 
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+#EXTINF:-1 group-title="☺ КІНО", Смотрим 100% Любовь 
+https://stream.smotrim.ru/hls/fasttv01/playlist_3.m3u8
+#EXTINF:-1 group-title="☺ КІНО", Смотрим 100% Мужское 
+https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
+#EXTINF:-1 group-title="☺ 777", Смотрим 100% Праздник 
+https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
+#EXTINF:-1 group-title="☺ 777", Смотрим 100% Детское
+https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
+#EXTINF:-1 group-title="☺ 777", Смотрим 100% Факты
+https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+#EXTINF:-1 group-title="☺ КІНО", Смотрим Честный детектив 
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="☺ КІНО", KINOSVIDANIE
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="☺ КІНО", KINOSWEET HD
@@ -2553,6 +2579,8 @@ http://31.43.48.248:7000/ch64/video.m3u8
 http://31.43.48.248:7000/ch158/video.m3u8
 #EXTINF:-1 group-title="☺ КІНО", Сити Эдем — Киноазия
 https://autopilot.catcast.tv/content/34393/index.m3u8?password=promolive
+#EXTINF:-1 group-title="☺ КІНО", Сити Эдем — КиноКомедия
+https://cityeden.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1 group-title="☺ КІНО", Сити Эдем — Кинодок
 https://autopilot.catcast.tv/content/38354/index.m3u8?password=promolive
 #EXTINF:-1 group-title="☺ КІНО", Сити Эдем — Киноклассика
@@ -2569,58 +2597,32 @@ https://autopilot.catcast.tv/content/46209/index.m3u8?password=promolive
 https://autopilot.catcast.tv/content/34246/index.m3u8?password=promolive
 #EXTINF:-1 group-title="☺ КІНО", Viasat Kino Comedy
 http://ukr.ukrainske.tv/493/tvainua/video.m3u8
-#EXTINF:-1 group-title="☺ ХОББИ", VIASAT NATURE
-http://tv.ttk.mx:9186
-#EXTINF:-1 group-title="☺ ХОББИ", VIASAT HISTORY
-http://tv.ttk.mx:9185
-#EXTINF:-1 group-title="☺ ХОББИ", VIASAT EXPLORER
-http://tv.ttk.mx:9184
-#EXTINF:-1 group-title="☺ ХОББИ", ОХОТА И РЫБАЛКА
-http://tv.ttk.mx:9034
-#EXTINF:-1 group-title="☺ ХОББИ", ЗОО ПАРК
-http://tv.ttk.mx:9029
-#EXTINF:-1 group-title="☺ ХОББИ", ДОМАШНИЕ ЖИВОТНЫЕ
-http://tv.ttk.mx:9035
-#EXTINF:-1 group-title="☺ ХОББИ", АВТО 24
-http://tv.ttk.mx:9031
-#EXTINF:-1 group-title="☺ ХОББИ", ДРАЙВ
-http://tv.ttk.mx:9039
-#EXTINF:-1 group-title="☺ ХОББИ", РЕТРО
-http://tv.ttk.mx:9032
-#EXTINF:-1 group-title="☺ ХОББИ", ПСИХОЛОГИЯ 21
-http://tv.ttk.mx:9033
-#EXTINF:-1 group-title="☺ ХОББИ", ЗДОРОВОЕ ТВ
-http://tv.ttk.mx:9036
-#EXTINF:-1 group-title="☺ ХОББИ", ДОКТОР
-http://tv.ttk.mx:9058
+#EXTINF:-1 group-title="☺ ХОББИ", Загородная жизнь
+http://185.57.68.33/40/mpegts
+#EXTINF:-1 group-title="☺ ХОББИ", Усадьба
+https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="☺ ХОББИ", Просвещение
+https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
 #EXTINF:-1 group-title="☺ ХОББИ", ВОПРОСЫ И ОТВЕТЫ
-http://tv.ttk.mx:9038
-#EXTINF:-1 group-title="☺ ХОББИ", НАУКА 2.0
-http://tv.ttk.mx:9041
-#EXTINF:-1 group-title="☺ ХОББИ", ЗВЕЗДА ПЛЮС
-http://tv.ttk.mx:9192
+http://188.225.31.197/bpk-tv/000000195/tve/index.m3u8
+#EXTINF:-1 group-title="☺ ХОББИ", Большая Азия
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="☺ ХОББИ", Глазами туриста
+http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
+#EXTINF:-1 group-title="☺ ХОББИ", НАУКА
+http://178.134.1.158:8081/nauka/index.m3u8
 #EXTINF:-1 group-title="☺ ХОББИ", ИСТОРИЯ
-http://tv.ttk.mx:9048
-#EXTINF:-1 group-title="☺ ХОББИ", РАТНИК
-http://tv.ttk.mx:9106
-#EXTINF:-1 group-title="☺ ХОББИ", МАМА
-http://tv.ttk.mx:9055
+http://185.46.16.239:8000/Istoriya
 #EXTINF:-1 group-title="☺ ХОББИ", ТЕХНО 24
 http://tv.ttk.mx:9056
 #EXTINF:-1 group-title="☺ ХОББИ", ТАЙНЫ ГАЛАКТИКИ
-http://tv.ttk.mx:9071
-#EXTINF:-1 group-title="☺ ХОББИ", ЗАГОРОДНАЯ ЖИЗНЬ
-http://tv.ttk.mx:9157
-#EXTINF:-1 group-title="☺ ХОББИ", УСАДЬБА ТВ
-http://tv.ttk.mx:9037
-#EXTINF:-1 group-title="☺ ХОББИ", МОЯ ПЛАНЕТА
-http://tv.ttk.mx:9040
-#EXTINF:-1 group-title="☺ ХОББИ", ЖИВАЯ ПРИРОДА HD
-http://tv.ttk.mx:9066
-#EXTINF:-1 group-title="☺ ХОББИ", ПЛАНЕТА HD
-http://tv.ttk.mx:9087
+http://188.225.31.197/bpk-tv/000000332/tve/index.m3u8
+#EXTINF:-1 group-title="☺ ХОББИ", ЖИВАЯ ПЛАНЕТА
+http://185.46.16.239:8000/Zhivaya_Planeta
 #EXTINF:-1 group-title="☺ ХОББИ", TRAVEL
 http://31.43.48.248:7000/ch167/video.m3u8
+#EXTINF:-1 group-title="☺ ХОББИ", Travel+Adventure HD 
+http://77.232.131.211/TravelAdventureHD/index.m3u8
 #EXTINF:-1 group-title="☺ ХОББИ", TRAVELXP
 http://31.43.48.248:7000/ch247/video.m3u8
 #EXTINF:-1 group-title="☺ ХОББИ", SEA TV
