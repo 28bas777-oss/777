@@ -2359,6 +2359,44 @@ http://95.47.156.60:8000/play/8/index.m3u8
 http://95.47.156.60:8000/play/20/index.m3u8
 #EXTINF:-1 group-title="☺ IP PETROSYAN (VPN)", МАТЧ ТВ
 http://95.47.156.60:8000/play/3/index.m3u8
+#EXTINF:-1 group-title="☺ RUSTV", Первый
+http://cdn.kubteltv.workers.dev/?ID=1
+#EXTINF:-1 group-title="☺ RUSTV", Россия 1
+http://cdn.kubteltv.workers.dev/?ID=2
+#EXTINF:-1 group-title="☺ RUSTV", НТВ
+http://cdn.kubteltv.workers.dev/?ID=4
+#EXTINF:-1 group-title="☺ RUSTV", Пятый канал
+http://cdn.kubteltv.workers.dev/?ID=5
+#EXTINF:-1 group-title="☺ RUSTV", Россия 24
+http://cdn.kubteltv.workers.dev/?ID=7
+#EXTINF:-1 group-title="☺ RUSTV", ОТР
+http://cdn.kubteltv.workers.dev/?ID=9
+#EXTINF:-1 group-title="☺ RUSTV", ТВЦ
+http://cdn.kubteltv.workers.dev/?ID=10
+#EXTINF:-1 group-title="☺ RUSTV", РЕН ТВ
+http://cdn.kubteltv.workers.dev/?ID=11
+#EXTINF:-1 group-title="☺ RUSTV", СТС
+http://cdn.kubteltv.workers.dev/?ID=13
+#EXTINF:-1 group-title="☺ RUSTV", Домашний
+http://cdn.kubteltv.workers.dev/?ID=14
+#EXTINF:-1 group-title="☺ RUSTV", ТВ 3
+http://cdn.kubteltv.workers.dev/?ID=15
+#EXTINF:-1 group-title="☺ RUSTV", ТНТ
+http://cdn.kubteltv.workers.dev/?ID=19
+#EXTINF:-1 group-title="☺ RUSTV", ТНТ4
+http://cdn.kubteltv.workers.dev/?ID=32
+#EXTINF:-1 group-title="☺ RUSTV", RU.TV
+http://cdn.kubteltv.workers.dev/?ID=48
+#EXTINF:-1 group-title="☺ RUSTV", Пятница!
+http://cdn.kubteltv.workers.dev/?ID=16
+#EXTINF:-1 group-title="☺ RUSTV", Суббота!
+http://cdn.kubteltv.workers.dev/?ID=136
+#EXTINF:-1 group-title="☺ RUSTV", ЧЕ!
+http://cdn.kubteltv.workers.dev/?ID=24
+#EXTINF:-1 group-title="☺ RUSTV", Ю
+http://cdn.kubteltv.workers.dev/?ID=23
+#EXTINF:-1 group-title="☺ RUSTV", 2х2 HD
+http://cdn.kubteltv.workers.dev/?ID=31
 #EXTINF:-1 group-title="☺ RUSTV", Белгород 24
 http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
 #EXTINF:-1 group-title="☺ RUSTV", МИР БЕЛОГОРЬЯ HD
@@ -2597,6 +2635,12 @@ http://hls127.freeott.top:8080/MyTV/mono.m3u8
 http://hls127.freeott.top:8080/MyTV2/mono.m3u8
 #EXTINF:-1 group-title="☺ КІНО", MYTV 3
 http://hls127.freeott.top:8080/MyTV3/mono.m3u8
+#EXTINF:-1 group-title="☺ КІНО", ЗОВ ТВ
+https://live20.bozztv.com/giatv/giatv-tvzovlivestream/tvzovlivestream/chunks.m3u8
+#EXTINF:-1 group-title="☺ КІНО", ЗОВ ТВ Black
+https://live20.bozztv.com/giatv/giatv-tvzovBlackstream/tvzovBlackstream/chunks.m3u8
+#EXTINF:-1 group-title="☺ КІНО", ЗОВ ТВ RED
+https://live20.bozztv.com/giatv/giatv-tvzov%20RED/tvzov%20RED/chunks.m3u8
 #EXTINF:-1 group-title="☺ КІНО", Сити Эдем — Киноазия
 https://autopilot.catcast.tv/content/34393/index.m3u8?password=promolive
 #EXTINF:-1 group-title="☺ КІНО", Сити Эдем — КиноКомедия
@@ -2631,12 +2675,20 @@ http://188.225.31.197/bpk-tv/000000195/tve/index.m3u8
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="☺ ХОББИ", Глазами туриста
 http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
+#EXTINF:-1 group-title="☺ ХОББИ", Da Vinci
+http://cdn.kubteltv.workers.dev/?ID=261
 #EXTINF:-1 group-title="☺ ХОББИ", НАУКА
 http://178.134.1.158:8081/nauka/index.m3u8
 #EXTINF:-1 group-title="☺ ХОББИ", ИСТОРИЯ
 http://185.46.16.239:8000/Istoriya
-#EXTINF:-1 group-title="☺ ХОББИ", ТЕХНО 24
-http://tv.ttk.mx:9056
+#EXTINF:-1 group-title="☺ ХОББИ", В мире животных HD
+https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="☺ ХОББИ", Первый Космический HD
+https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
+#EXTINF:- group-title="☺ ХОББИ", Инсайт TV HD
+https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="☺ ХОББИ", Zooпарк
+https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="☺ ХОББИ", ТАЙНЫ ГАЛАКТИКИ
 http://188.225.31.197/bpk-tv/000000332/tve/index.m3u8
 #EXTINF:-1 group-title="☺ ХОББИ", ЖИВАЯ ПЛАНЕТА
@@ -2723,8 +2775,12 @@ http://tv.ttk.mx:9023
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="☺ 777", АНЕКДОТ
 https://fl1001.bozztv.com/ushba81/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="☺ 777", Анекдот ТВ
+http://188.225.31.197/bpk-tv/000001921/tve/index.m3u8
 #EXTINF:-1 group-title="☺ 777", ТВОЁ ТВ ЮМОР
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:-1 group-title="☺ 777", Gags network
+http://188.225.31.197/bpk-tv/000006639/tve/index.m3u8
 #EXTINF:-1 group-title="☺ 777", ТВОЁ ТВ
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="☺ 777", ВОПРОСЫ И ОТВЕТЫ

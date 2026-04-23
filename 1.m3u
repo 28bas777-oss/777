@@ -1357,6 +1357,10 @@ https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/Suspilne-Sport/master.
 http://ip1.orgip.net/220/video.m3u8?token=A37feb3eec
 #EXTINF:-1 group-title="☺ СПОРТ", Т SETANTA SPORTS 2
 http://ip1.orgip.net/221/video.m3u8?token=A37feb3eec
+#EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS UKRAINE
+http://178.63.98.119:8000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS 2 UKRAINE
+http://178.63.98.119:8000/play/a01n/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", Т SETANTA SPORTS UKRAINE
 http://ip1.orgip.net/222/video.m3u8?token=A37feb3eec
 #EXTINF:-1 group-title="☺ СПОРТ", Т SETANTA SPORTS UKRAINE +
@@ -1377,6 +1381,8 @@ http://188.225.31.197/bpk-tv/000004499/tve/index.m3u8
 http://31.43.48.248:7000/ch109/video.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", XSPORT +
 http://31.43.48.248:7000/ch117/video.m3u8
+#EXTINF:-1 group-title="☺ СПОРТ", EUROSPORT 1
+http://77.245.98.18:8000/play/a00h
 #EXTINF:-1 group-title="☺ СПОРТ", EUROSPORT 1
 http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", EUROSPORT 2
@@ -2353,8 +2359,48 @@ http://95.47.156.60:8000/play/8/index.m3u8
 http://95.47.156.60:8000/play/20/index.m3u8
 #EXTINF:-1 group-title="☺ IP PETROSYAN (VPN)", МАТЧ ТВ
 http://95.47.156.60:8000/play/3/index.m3u8
-#EXTINF:-1 group-title="☺ RUSTV", ПЕРВЫЙ КАНАЛ
-http://tv.ttk.mx:9000
+#EXTINF:-1 group-title="☺ RUSTV", Первый
+http://cdn.kubteltv.workers.dev/?ID=1
+#EXTINF:-1 group-title="☺ RUSTV", Россия 1
+http://cdn.kubteltv.workers.dev/?ID=2
+#EXTINF:-1 group-title="☺ RUSTV", НТВ
+http://cdn.kubteltv.workers.dev/?ID=4
+#EXTINF:-1 group-title="☺ RUSTV", Пятый канал
+http://cdn.kubteltv.workers.dev/?ID=5
+#EXTINF:-1 group-title="☺ RUSTV", Россия 24
+http://cdn.kubteltv.workers.dev/?ID=7
+#EXTINF:-1 group-title="☺ RUSTV", ОТР
+http://cdn.kubteltv.workers.dev/?ID=9
+#EXTINF:-1 group-title="☺ RUSTV", ТВЦ
+http://cdn.kubteltv.workers.dev/?ID=10
+#EXTINF:-1 group-title="☺ RUSTV", РЕН ТВ
+http://cdn.kubteltv.workers.dev/?ID=11
+#EXTINF:-1 group-title="☺ RUSTV", СТС
+http://cdn.kubteltv.workers.dev/?ID=13
+#EXTINF:-1 group-title="☺ RUSTV", Домашний
+http://cdn.kubteltv.workers.dev/?ID=14
+#EXTINF:-1 group-title="☺ RUSTV", ТВ 3
+http://cdn.kubteltv.workers.dev/?ID=15
+#EXTINF:-1 group-title="☺ RUSTV", ТНТ
+http://cdn.kubteltv.workers.dev/?ID=19
+#EXTINF:-1 group-title="☺ RUSTV", ТНТ4
+http://cdn.kubteltv.workers.dev/?ID=32
+#EXTINF:-1 group-title="☺ RUSTV", RU.TV
+http://cdn.kubteltv.workers.dev/?ID=48
+#EXTINF:-1 group-title="☺ RUSTV", Пятница!
+http://cdn.kubteltv.workers.dev/?ID=16
+#EXTINF:-1 group-title="☺ RUSTV", Суббота!
+http://cdn.kubteltv.workers.dev/?ID=136
+#EXTINF:-1 group-title="☺ RUSTV", ЧЕ!
+http://cdn.kubteltv.workers.dev/?ID=24
+#EXTINF:-1 group-title="☺ RUSTV", Ю
+http://cdn.kubteltv.workers.dev/?ID=23
+#EXTINF:-1 group-title="☺ RUSTV", 2х2 HD
+http://cdn.kubteltv.workers.dev/?ID=31
+#EXTINF:-1 group-title="☺ RUSTV", Белгород 24
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+#EXTINF:-1 group-title="☺ RUSTV", МИР БЕЛОГОРЬЯ HD
+https://tvbelgorod.ru:90/mirbelogorya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="☺ RUSTV", ПЕРВЫЙ КАНАЛ
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 group-title="☺ RUSTV", ПЕРВЫЙ КАНАЛ HD
@@ -2493,6 +2539,14 @@ http://kinowalk.hopto.org/backtotheussr_live
 http://178.212.71.253:8080/play/124/index.m3u8
 #EXTINF:-1 group-title="☺ КІНО", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
 http://46.53.208.4:80/live/1124.m3u8
+#EXTINF:-1 group-title="☺ КІНО", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
+http://178.134.1.158:8081/mosfilm/index.m3u8
+#EXTINF:-1 group-title="☺ КІНО", Классика кино
+http://46.53.208.4/live/3006.m3u8
+#EXTINF:-1 group-title="☺ КІНО", Советское кино
+http://46.53.208.4/live/3018.m3u8
+#EXTINF:-1 group-title="☺ КІНО", Феникс Плюс Кино
+http://46.53.208.4/live/332.m3u8
 #EXTINF:-1 group-title="☺ КІНО", РЕТРО
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 group-title="☺ КІНО", НОСТАЛЬГИЯ
@@ -2503,6 +2557,16 @@ http://158.101.222.193:88/georgia_play.php?id=illuzionplus
 http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="☺ КІНО", НТВ-Сериал
 http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="☺ КІНО", Любимое кино
+http://176.118.197.101/LubimoeKino/index.m3u8
+#EXTINF:-1 group-title="☺ КІНО", Народ Всё Видит
+http://188.225.31.197/bpk-tv/000008614/tve/index.m3u8
+#EXTINF:-1 group-title="☺ КІНО", ТЕХ ЛЕТ ТВ
+http://46.53.208.4/live/9489.m3u8
+#EXTINF:-1 group-title="☺ КІНО", Тик Ток
+https://fl1001.bozztv.com/ushba61/index.m3u8
+#EXTINF:-1 group-title="☺ КІНО", КОМЕДИЯ
+http://176.118.197.101/Komediya/index.m3u8
 #EXTINF:-1 group-title="☺ КІНО", KINEKO
 http://31.148.48.15/Kineko/index.m3u8
 #EXTINF:-1 group-title="☺ КІНО", КИНОХИТ
@@ -2519,6 +2583,20 @@ http://158.101.222.193:88/georgia_play.php?id=kinoseria
 http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
 #EXTINF:-1 group-title="☺ КІНО", ИЛЛЮЗИОН+
 http://185.46.16.239:8000/Illyuzion+
+#EXTINF:-1 group-title="☺ КІНО, Смотрим 100% Классика 
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+#EXTINF:-1 group-title="☺ КІНО", Смотрим 100% Любовь 
+https://stream.smotrim.ru/hls/fasttv01/playlist_3.m3u8
+#EXTINF:-1 group-title="☺ КІНО", Смотрим 100% Мужское 
+https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
+#EXTINF:-1 group-title="☺ 777", Смотрим 100% Праздник 
+https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
+#EXTINF:-1 group-title="☺ 777", Смотрим 100% Детское
+https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
+#EXTINF:-1 group-title="☺ 777", Смотрим 100% Факты
+https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+#EXTINF:-1 group-title="☺ КІНО", Смотрим Честный детектив 
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="☺ КІНО", KINOSVIDANIE
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="☺ КІНО", KINOSWEET HD
@@ -2551,8 +2629,22 @@ http://31.43.48.248:7000/ch63/video.m3u8
 http://31.43.48.248:7000/ch64/video.m3u8
 #EXTINF:-1 group-title="☺ КІНО", FLIXSNIP
 http://31.43.48.248:7000/ch158/video.m3u8
+#EXTINF:-1 group-title="☺ КІНО", MYTV
+http://hls127.freeott.top:8080/MyTV/mono.m3u8
+#EXTINF:-1 group-title="☺ КІНО", MYTV 2
+http://hls127.freeott.top:8080/MyTV2/mono.m3u8
+#EXTINF:-1 group-title="☺ КІНО", MYTV 3
+http://hls127.freeott.top:8080/MyTV3/mono.m3u8
+#EXTINF:-1 group-title="☺ КІНО", ЗОВ ТВ
+https://live20.bozztv.com/giatv/giatv-tvzovlivestream/tvzovlivestream/chunks.m3u8
+#EXTINF:-1 group-title="☺ КІНО", ЗОВ ТВ Black
+https://live20.bozztv.com/giatv/giatv-tvzovBlackstream/tvzovBlackstream/chunks.m3u8
+#EXTINF:-1 group-title="☺ КІНО", ЗОВ ТВ RED
+https://live20.bozztv.com/giatv/giatv-tvzov%20RED/tvzov%20RED/chunks.m3u8
 #EXTINF:-1 group-title="☺ КІНО", Сити Эдем — Киноазия
 https://autopilot.catcast.tv/content/34393/index.m3u8?password=promolive
+#EXTINF:-1 group-title="☺ КІНО", Сити Эдем — КиноКомедия
+https://cityeden.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1 group-title="☺ КІНО", Сити Эдем — Кинодок
 https://autopilot.catcast.tv/content/38354/index.m3u8?password=promolive
 #EXTINF:-1 group-title="☺ КІНО", Сити Эдем — Киноклассика
@@ -2565,62 +2657,46 @@ https://autopilot.catcast.tv/content/38128/index.m3u8?password=promolive
 https://autopilot.catcast.tv/content/41333/index.m3u8?password=promolive
 #EXTINF:-1 group-title="☺ КІНО", Сити Эдем — Теленовелла
 https://autopilot.catcast.tv/content/46209/index.m3u8?password=promolive
+#EXTINF:-1 group-title="☺ КІНО", Сити Эдем - LUBU GOLD TV
+https://v2.catcast.tv/content/40546/index.m3u8
 #EXTINF:-1 group-title="☺ КІНО", Сити Эдем — Христианский
 https://autopilot.catcast.tv/content/34246/index.m3u8?password=promolive
 #EXTINF:-1 group-title="☺ КІНО", Viasat Kino Comedy
 http://ukr.ukrainske.tv/493/tvainua/video.m3u8
-#EXTINF:-1 group-title="☺ ХОББИ", VIASAT NATURE
-http://tv.ttk.mx:9186
-#EXTINF:-1 group-title="☺ ХОББИ", VIASAT HISTORY
-http://tv.ttk.mx:9185
-#EXTINF:-1 group-title="☺ ХОББИ", VIASAT EXPLORER
-http://tv.ttk.mx:9184
-#EXTINF:-1 group-title="☺ ХОББИ", ОХОТА И РЫБАЛКА
-http://tv.ttk.mx:9034
-#EXTINF:-1 group-title="☺ ХОББИ", ЗОО ПАРК
-http://tv.ttk.mx:9029
-#EXTINF:-1 group-title="☺ ХОББИ", ДОМАШНИЕ ЖИВОТНЫЕ
-http://tv.ttk.mx:9035
-#EXTINF:-1 group-title="☺ ХОББИ", АВТО 24
-http://tv.ttk.mx:9031
-#EXTINF:-1 group-title="☺ ХОББИ", ДРАЙВ
-http://tv.ttk.mx:9039
-#EXTINF:-1 group-title="☺ ХОББИ", РЕТРО
-http://tv.ttk.mx:9032
-#EXTINF:-1 group-title="☺ ХОББИ", ПСИХОЛОГИЯ 21
-http://tv.ttk.mx:9033
-#EXTINF:-1 group-title="☺ ХОББИ", ЗДОРОВОЕ ТВ
-http://tv.ttk.mx:9036
-#EXTINF:-1 group-title="☺ ХОББИ", ДОКТОР
-http://tv.ttk.mx:9058
+#EXTINF:-1 group-title="☺ ХОББИ", Загородная жизнь
+http://185.57.68.33/40/mpegts
+#EXTINF:-1 group-title="☺ ХОББИ", Усадьба
+https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="☺ ХОББИ", Просвещение
+https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
 #EXTINF:-1 group-title="☺ ХОББИ", ВОПРОСЫ И ОТВЕТЫ
-http://tv.ttk.mx:9038
-#EXTINF:-1 group-title="☺ ХОББИ", НАУКА 2.0
-http://tv.ttk.mx:9041
-#EXTINF:-1 group-title="☺ ХОББИ", ЗВЕЗДА ПЛЮС
-http://tv.ttk.mx:9192
+http://188.225.31.197/bpk-tv/000000195/tve/index.m3u8
+#EXTINF:-1 group-title="☺ ХОББИ", Большая Азия
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="☺ ХОББИ", Глазами туриста
+http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
+#EXTINF:-1 group-title="☺ ХОББИ", Da Vinci
+http://cdn.kubteltv.workers.dev/?ID=261
+#EXTINF:-1 group-title="☺ ХОББИ", НАУКА
+http://178.134.1.158:8081/nauka/index.m3u8
 #EXTINF:-1 group-title="☺ ХОББИ", ИСТОРИЯ
-http://tv.ttk.mx:9048
-#EXTINF:-1 group-title="☺ ХОББИ", РАТНИК
-http://tv.ttk.mx:9106
-#EXTINF:-1 group-title="☺ ХОББИ", МАМА
-http://tv.ttk.mx:9055
-#EXTINF:-1 group-title="☺ ХОББИ", ТЕХНО 24
-http://tv.ttk.mx:9056
+http://185.46.16.239:8000/Istoriya
+#EXTINF:-1 group-title="☺ ХОББИ", В мире животных HD
+https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="☺ ХОББИ", Первый Космический HD
+https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
+#EXTINF:- group-title="☺ ХОББИ", Инсайт TV HD
+https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="☺ ХОББИ", Zooпарк
+https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="☺ ХОББИ", ТАЙНЫ ГАЛАКТИКИ
-http://tv.ttk.mx:9071
-#EXTINF:-1 group-title="☺ ХОББИ", ЗАГОРОДНАЯ ЖИЗНЬ
-http://tv.ttk.mx:9157
-#EXTINF:-1 group-title="☺ ХОББИ", УСАДЬБА ТВ
-http://tv.ttk.mx:9037
-#EXTINF:-1 group-title="☺ ХОББИ", МОЯ ПЛАНЕТА
-http://tv.ttk.mx:9040
-#EXTINF:-1 group-title="☺ ХОББИ", ЖИВАЯ ПРИРОДА HD
-http://tv.ttk.mx:9066
-#EXTINF:-1 group-title="☺ ХОББИ", ПЛАНЕТА HD
-http://tv.ttk.mx:9087
+http://188.225.31.197/bpk-tv/000000332/tve/index.m3u8
+#EXTINF:-1 group-title="☺ ХОББИ", ЖИВАЯ ПЛАНЕТА
+http://185.46.16.239:8000/Zhivaya_Planeta
 #EXTINF:-1 group-title="☺ ХОББИ", TRAVEL
 http://31.43.48.248:7000/ch167/video.m3u8
+#EXTINF:-1 group-title="☺ ХОББИ", Travel+Adventure HD 
+http://77.232.131.211/TravelAdventureHD/index.m3u8
 #EXTINF:-1 group-title="☺ ХОББИ", TRAVELXP
 http://31.43.48.248:7000/ch247/video.m3u8
 #EXTINF:-1 group-title="☺ ХОББИ", SEA TV
@@ -2637,6 +2713,8 @@ http://31.43.48.248:7000/ch100/video.m3u8
 http://31.43.48.248:7000/ch103/video.m3u8
 #EXTINF:-1 group-title="☺ ХОББИ", РИБАЛКА ?
 http://31.43.48.248:7000/ch88/video.m3u8
+#EXTINF:-1 group-title="☺ ДЕТСКИЕ", В гостях у сказки
+https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="☺ ДЕТСКИЕ", ПЛЮС ПЛЮС
 http://31.43.48.248:7000/ch66/video.m3u8
 #EXTINF:-1 group-title="☺ ДЕТСКИЕ", ПІКСЕЛЬ
@@ -2694,11 +2772,15 @@ http://31.43.48.248:7000/ch139/video.m3u8
 #EXTINF:-1 group-title="☺ МУЗИКА", ТНТ-МУЗЫКА
 http://tv.ttk.mx:9023
 #EXTINF:-1 group-title="☺ МУЗИКА", ШАНСОН
-http://tv.ttk.mx:9062
+http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="☺ 777", АНЕКДОТ
 https://fl1001.bozztv.com/ushba81/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="☺ 777", Анекдот ТВ
+http://188.225.31.197/bpk-tv/000001921/tve/index.m3u8
 #EXTINF:-1 group-title="☺ 777", ТВОЁ ТВ ЮМОР
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:-1 group-title="☺ 777", Gags network
+http://188.225.31.197/bpk-tv/000006639/tve/index.m3u8
 #EXTINF:-1 group-title="☺ 777", ТВОЁ ТВ
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="☺ 777", ВОПРОСЫ И ОТВЕТЫ
@@ -2713,8 +2795,6 @@ http://31.43.48.248:7000/ch65/video.m3u8
 http://31.43.48.248:7000/ch348/video.m3u8
 #EXTINF:-1 group-title="☺ 777", СОВЕРШЕННО СЕКРЕТНО
 http://hls127.freeott.top:8080/Sovershenno_Sekretno/mono.m3u8
-#EXTINF:-1 group-title="☺ 777", TINTO BRASS Т
-http://streamer.enchart.one/42/c34bcdb0a22bdd610d3ce4c983a32d9ea19b3795/3184/stream.m3u8
 #EXTINF:-1 group-title="☺ ТЕСТ", MM КАТАСТРОФА
 https://tinyurl.com/aleks-u-romki-53/13034/index.m3u8
 #EXTINF:-1 group-title="☺ ТЕСТ", MM ИСТОРИЯ
