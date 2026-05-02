@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="http://tapitv.com/ttv.xmltv.xml.gz"
+﻿#EXTM3U
 #EXTINF:-1 group-title="АВТОРСКИЕ", ALISATV ACTION
 http://streamer.enchart.one/42/c34bcdb0a22bdd610d3ce4c983a32d9ea19b3795/3077/stream.m3u8
 #EXTINF:-1 group-title="АВТОРСКИЕ", ALISATV ANIME
@@ -1416,13 +1416,13 @@ http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 #EXTINF:-1 group-title="☺ СПОРТ", МАТЧ! ПРЕМЬЕР
 http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", ФУТБОЛ
-http://tv.ttk.mx:9065
-#EXTINF:-1 group-title="☺ СПОРТ", ФУТБОЛ 1
-http://tv.ttk.mx:9108
-#EXTINF:-1 group-title="☺ СПОРТ", ФУТБОЛ 2
-http://tv.ttk.mx:9111
-#EXTINF:-1 group-title="☺ СПОРТ", ФУТБОЛ-3
-http://tv.ttk.mx:9112
+http://hls127.freeott.top:8080/Football/video.m3u8
+#EXTINF:-1 group-title="☺ СПОРТ", МАТЧ! ФУТБОЛ 1
+http://37.46.49.14:18010/play/a09d/index.m3u8
+#EXTINF:-1 group-title="☺ СПОРТ", МАТЧ! ФУТБОЛ 2
+http://37.46.49.14:18010/play/a09e/index.m3u8
+#EXTINF:-1 group-title="☺ СПОРТ", МАТЧ! ФУТБОЛ 3
+http://37.46.49.14:18010/play/a09f/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", БОКС ТВ
 http://158.101.222.193:88/georgia_play.php?id=boxtv
 #EXTINF:-1 group-title="☺ СПОРТ", VIJU+ SPORT
@@ -1457,26 +1457,28 @@ http://iptv.prosto.tv:7000/ch111/video.m3u8
 http://iptv.prosto.tv:7000/ch326/video.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", EQUALYMPIC
 http://31.43.48.248:7000/ch215/video.m3u8
-#EXTINF:-1 group-title="☺ СПОРТ", UPL.TV
+#EXTINF:-1 group-title="☺ СПОРТ", т UPL.TV
 http://ip1.orgip.net/212/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="☺ СПОРТ", VIJU+ SPORT
+#EXTINF:-1 group-title="☺ СПОРТ", т VIJU+ SPORT
 http://ip1.orgip.net/215/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="☺ СПОРТ", XSPORT
+#EXTINF:-1 group-title="☺ СПОРТ", т XSPORT
 http://ip1.orgip.net/217/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="☺ СПОРТ", ОККО ФУТБОЛ HD
-http://ip1.orgip.net/232/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="☺ СПОРТ", MEGOGO ФУТБОЛ 1 HD
-http://ip1.orgip.net/233/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="☺ СПОРТ", MEGOGO ФУТБОЛ 2 HD
-http://ip1.orgip.net/234/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="☺ СПОРТ", MEGOGO ФУТБОЛ 3 HD
-http://ip1.orgip.net/235/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="☺ СПОРТ", ОККО ПРАЙМ СПОРТ
-http://ip1.orgip.net/236/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="☺ СПОРТ", MEGOGO СПОРТ HD
+#EXTINF:-1 group-title="☺ СПОРТ", MEGOGO СПОРТ
+http://5.188.159.128:8070/megogo_sport/index.m3u8
+#EXTINF:-1 group-title="☺ СПОРТ", т MEGOGO СПОРТ HD
 http://ip1.orgip.net/237/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="☺ СПОРТ", ОККО СПОРТ HD
+#EXTINF:-1 group-title="☺ СПОРТ", т MEGOGO ФУТБОЛ 1 HD
+http://ip1.orgip.net/233/video.m3u8?token=A37feb3eec
+#EXTINF:-1 group-title="☺ СПОРТ", т MEGOGO ФУТБОЛ 2 HD
+http://ip1.orgip.net/234/video.m3u8?token=A37feb3eec
+#EXTINF:-1 group-title="☺ СПОРТ", т MEGOGO ФУТБОЛ 3 HD
+http://ip1.orgip.net/235/video.m3u8?token=A37feb3eec
+#EXTINF:-1 group-title="☺ СПОРТ", т ОККО ПРАЙМ СПОРТ
+http://ip1.orgip.net/236/video.m3u8?token=A37feb3eec
+#EXTINF:-1 group-title="☺ СПОРТ", т ОККО СПОРТ HD
 http://ip1.orgip.net/238/video.m3u8?token=A37feb3eec
+#EXTINF:-1 group-title="☺ СПОРТ", т ОККО ФУТБОЛ HD
+http://ip1.orgip.net/232/video.m3u8?token=A37feb3eec
 #EXTINF:-1 group-title="☺ СПОРТ", VITAL DRIVE
 http://tv.a21network.ru/content/37909/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", VITAL DRIVE
@@ -2642,25 +2644,37 @@ https://live20.bozztv.com/giatv/giatv-tvzovBlackstream/tvzovBlackstream/chunks.m
 #EXTINF:-1 group-title="☺ КІНО", ЗОВ ТВ RED
 https://live20.bozztv.com/giatv/giatv-tvzov%20RED/tvzov%20RED/chunks.m3u8
 #EXTINF:-1 group-title="☺ КІНО", Сити Эдем — Киноазия
-https://autopilot.catcast.tv/content/34393/index.m3u8?password=promolive
+https://cityeden.catcast.tv/content/34393/index.m3u8
 #EXTINF:-1 group-title="☺ КІНО", Сити Эдем — КиноКомедия
 https://cityeden.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 group-title="☺ КІНО", Сити Эдем — Кинодок
-https://autopilot.catcast.tv/content/38354/index.m3u8?password=promolive
-#EXTINF:-1 group-title="☺ КІНО", Сити Эдем — Киноклассика
-https://autopilot.catcast.tv/content/34185/index.m3u8?password=promolive
-#EXTINF:-1 group-title="☺ КІНО", Сити Эдем — Киномистика
-https://autopilot.catcast.tv/content/40783/index.m3u8?password=promolive
-#EXTINF:-1 group-title="☺ КІНО", Сити Эдем — Киносемья
-https://autopilot.catcast.tv/content/38128/index.m3u8?password=promolive
-#EXTINF:-1 group-title="☺ КІНО", Сити Эдем — Киноэкшен
-https://autopilot.catcast.tv/content/41333/index.m3u8?password=promolive
-#EXTINF:-1 group-title="☺ КІНО", Сити Эдем — Теленовелла
-https://autopilot.catcast.tv/content/46209/index.m3u8?password=promolive
-#EXTINF:-1 group-title="☺ КІНО", Сити Эдем - LUBU GOLD TV
-https://v2.catcast.tv/content/40546/index.m3u8
-#EXTINF:-1 group-title="☺ КІНО", Сити Эдем — Христианский
-https://autopilot.catcast.tv/content/34246/index.m3u8?password=promolive
+#EXTINF:-1 group-title="☺ КІНО", Сити Эдем КиноАрт
+https://cityeden.catcast.tv/content/38398/index.m3u8
+#EXTINF:-1 group-title="☺ КІНО", Сити Эдем - КиноДетектив
+https://cityeden.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1 group-title="☺ КІНО", Сити Эдем КиноДок
+https://cityeden.catcast.tv/content/38354/index.m3u8
+#EXTINF:-1 group-title="☺ КІНО", Сити Эдем КиноДрама
+https://cityeden.catcast.tv/content/45269/index.m3u8
+#EXTINF:-1 group-title="☺ КІНО", Сити Эдем - КиноКлассика
+https://cityeden.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1 group-title="☺ КІНО", Сити Эдем - КиноКомедия
+https://cityeden.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1 group-title="☺ КІНО", Сити Эдем - КиноМистика
+https://cityeden.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 group-title="☺ КІНО", Сити Эдем КиноФантастика
+https://cityeden.catcast.tv/content/45268/index.m3u8
+EXTINF:-1 group-title="☺ КІНО", Сити Эдем - КиноЭкшен
+https://cityeden.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1 group-title="☺ КІНО", Сити Эдем Классическая Музыка
+https://cityeden.catcast.tv/content/47400/index.m3u8
+#EXTINF:-1 group-title="☺ КІНО", Сити Эдем МедЗдрав
+https://cityeden.catcast.tv/content/47519/index.m3u8
+#EXTINF:-1 group-title="☺ КІНО", Сити Эдем Рецепты Гурмана
+https://cityeden.catcast.tv/content/47516/index.m3u8
+#EXTINF:-1 group-title="☺ КІНО", Сити Эдем Сиртаки ТВ
+https://cityeden.catcast.tv/content/46421/index.m3u8
+#EXTINF:-1 group-title="☺ КІНО", Сити Эдем ТелеНовелла
+https://cityeden.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 group-title="☺ КІНО", Viasat Kino Comedy
 http://ukr.ukrainske.tv/493/tvainua/video.m3u8
 #EXTINF:-1 group-title="☺ ХОББИ", Загородная жизнь
@@ -2740,7 +2754,7 @@ http://31.43.48.248:7000/ch342/video.m3u8
 #EXTINF:-1 group-title="☺ ДЕТСКИЕ", УНИКУМ
 http://tv.ttk.mx:9026
 #EXTINF:-1 group-title="☺ ДЕТСКИЕ", МУЛЬТ
-http://tv.ttk.mx:9054
+https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="☺ ДЕТСКИЕ", ДЕТСКИЙ МИР
 http://tv.ttk.mx:9063
 #EXTINF:-1 group-title="☺ ДЕТСКИЕ", ANI
@@ -2780,7 +2794,7 @@ http://188.225.31.197/bpk-tv/000001921/tve/index.m3u8
 #EXTINF:-1 group-title="☺ 777", ТВОЁ ТВ ЮМОР
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 group-title="☺ 777", Gags network
-http://188.225.31.197/bpk-tv/000006639/tve/index.m3u8
+http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
 #EXTINF:-1 group-title="☺ 777", ТВОЁ ТВ
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="☺ 777", ВОПРОСЫ И ОТВЕТЫ
