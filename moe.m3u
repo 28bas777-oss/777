@@ -1347,10 +1347,6 @@ http://streamer.enchart.one/42/c34bcdb0a22bdd610d3ce4c983a32d9ea19b3795/240/stre
 http://streamer.enchart.one/42/c34bcdb0a22bdd610d3ce4c983a32d9ea19b3795/368/stream.m3u8
 #EXTINF:-1 group-title="ЭРОТИКА", РУССКАЯ НОЧЬ
 http://streamer.enchart.one/42/c34bcdb0a22bdd610d3ce4c983a32d9ea19b3795/269/stream.m3u8
-#EXTINF:-1 group-title="☺ СПОРТ", Т СУСПІЛЬНЕ СПОРТ
-http://ip1.orgip.net/240/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="☺ СПОРТ", СУСПІЛЬНЕ СПОРТ
-https://dtv.vol.net.ua/Suspilne_Sport/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", СУСПІЛЬНЕ СПОРТ
 https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/Suspilne-Sport/master.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", Т SETANTA SPORTS 1
@@ -1361,10 +1357,6 @@ http://ip1.orgip.net/221/video.m3u8?token=A37feb3eec
 http://178.63.98.119:8000/play/a01m/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS 2 UKRAINE
 http://178.63.98.119:8000/play/a01n/index.m3u8
-#EXTINF:-1 group-title="☺ СПОРТ", Т SETANTA SPORTS UKRAINE
-http://ip1.orgip.net/222/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="☺ СПОРТ", Т SETANTA SPORTS UKRAINE +
-http://ip1.orgip.net/214/video.m3u8?token=A37feb3eec
 #EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS 1 HD
 https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS 2 HD
@@ -1373,10 +1365,23 @@ https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 http://streamer.enchart.one/42/c34bcdb0a22bdd610d3ce4c983a32d9ea19b3795/186/stream.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS+ HD (UA) Т
 http://streamer.enchart.one/42/c34bcdb0a22bdd610d3ce4c983a32d9ea19b3795/187/stream.m3u8
-#EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS 1
-http://188.225.31.197/bpk-tv/000004498/tve/index.m3u8
-#EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS 2
-http://188.225.31.197/bpk-tv/000004499/tve/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",Setanta Qazaqstan
+http://37.46.49.14:18010/play/a03h/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",Sport Plus Kazakhstan
+http://37.46.49.14:18010/play/a056/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",Setanta Sport Eurasia
+http://37.46.49.14:18010/play/a03f/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",Setanta Sport Eurasia Plus
+http://37.46.49.14:18010/play/a03g/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",QAZSPORT HD
+http://37.46.49.14:18010/play/a04c/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports 1 Georgia
+#EXTVLCOPT:audio-language=rus 
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports 2 Georgia
+http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
+#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports 3 Georgia
+http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
 #EXTINF:-1 group-title="☺ СПОРТ", XSPORT
 http://31.43.48.248:7000/ch109/video.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", XSPORT +
@@ -1384,21 +1389,17 @@ http://31.43.48.248:7000/ch117/video.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", EUROSPORT 1
 http://77.245.98.18:8000/play/a00h
 #EXTINF:-1 group-title="☺ СПОРТ", EUROSPORT 1
-http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
-#EXTINF:-1 group-title="☺ СПОРТ", EUROSPORT 2
-http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
-#EXTINF:-1 group-title="☺ СПОРТ", EUROSPORT 1
 http://176.96.241.40/Eurosport1/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", EUROSPORT 2
 http://176.96.241.40/Eurosport2/index.m3u8
-#EXTINF:-1 group-title="☺ СПОРТ", EUROSPORT 1
-http://87.76.32.36:8001/eurosport1hd
-#EXTINF:-1 group-title="☺ СПОРТ", EUROSPORT 2
-http://87.76.32.36:8001/eurosport2hd
-#EXTINF:-1 group-title="☺ СПОРТ", EUROSPORT 1
-http://87.246.54.249:8080/Eurosport/index.m3u8
-#EXTINF:-1 group-title="☺ СПОРТ", EUROSPORT 2
-http://87.246.54.249:8080/Eurosport2/index.m3u8
+#EXTINF:-1 group-title="☺ СПОРТ",Eurosport 1
+http://46.32.176.50/eurosport/index.m3u8
+#EXTINF:-1 group-title="☺ СПОРТ",Eurosport 2
+http://46.32.176.50/eurosport2/index.m3u8
+#EXTINF:-1 group-title="☺ СПОРТ",Eurosport 1
+http://178.134.1.158:8081/eurosport/index.m3u8
+#EXTINF:-1 group-title="☺ СПОРТ",Eurosport 2 HD
+http://85.117.37.41/eurosport2/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", РУССКИЙ ЭКСТРИМ
 http://85.208.223.249:8888/play/a004
 #EXTINF:-1 group-title="☺ СПОРТ", МАТЧ ТВ
@@ -1445,12 +1446,6 @@ http://31.43.48.248:7000/ch118/video.m3u8
 http://31.43.48.248:7000/ch120/video.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", DIVI SPORT
 http://31.43.48.248:7000/ch119/video.m3u8
-#EXTINF:-1 group-title="☺ СПОРТ", SKY SPORTS F1 HD
-http://ak.fly47.be:80/Emrullah20/X9J5VbPtxD/247370
-#EXTINF:-1 group-title="☺ СПОРТ", F1
-http://xxip9.top:8080/live/Rickcarrier12@gmail.com/XutxCLSk4m/125947.ts
-#EXTINF:-1 group-title="☺ СПОРТ", F1
-https://7pal.short.gy/ssportsf1
 #EXTINF:-1 group-title="☺ СПОРТ", CARS STARS TV HD
 http://iptv.prosto.tv:7000/ch111/video.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", PROSTO DRIVE
@@ -2538,15 +2533,15 @@ http://31.148.48.15:80/Nostalgiya/index.m3u8
 #EXTINF:-1 group-title="☺ КІНО", НАЗАД В СССР
 http://kinowalk.hopto.org/backtotheussr_live
 #EXTINF:-1 group-title="☺ КІНО", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
-http://178.212.71.253:8080/play/124/index.m3u8
-#EXTINF:-1 group-title="☺ КІНО", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
-http://46.53.208.4:80/live/1124.m3u8
+http://hls127.freeott.top:8080/Mosfilm/video.m3u8
 #EXTINF:-1 group-title="☺ КІНО", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
 http://178.134.1.158:8081/mosfilm/index.m3u8
+#EXTINF:-1 group-title="☺ КІНО", Советское кино
+http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
+#EXTINF:-1 group-title="☺ КІНО", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
+http://46.53.208.4:80/live/1124.m3u8
 #EXTINF:-1 group-title="☺ КІНО", Классика кино
 http://46.53.208.4/live/3006.m3u8
-#EXTINF:-1 group-title="☺ КІНО", Советское кино
-http://46.53.208.4/live/3018.m3u8
 #EXTINF:-1 group-title="☺ КІНО", Феникс Плюс Кино
 http://46.53.208.4/live/332.m3u8
 #EXTINF:-1 group-title="☺ КІНО", РЕТРО
@@ -2585,17 +2580,17 @@ http://158.101.222.193:88/georgia_play.php?id=kinoseria
 http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
 #EXTINF:-1 group-title="☺ КІНО", ИЛЛЮЗИОН+
 http://185.46.16.239:8000/Illyuzion+
-#EXTINF:-1 group-title="☺ КІНО, Смотрим 100% Классика 
+#EXTINF:-1 group-title="☺ КІНО", Смотрим 100% Классика 
 https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 #EXTINF:-1 group-title="☺ КІНО", Смотрим 100% Любовь 
 https://stream.smotrim.ru/hls/fasttv01/playlist_3.m3u8
 #EXTINF:-1 group-title="☺ КІНО", Смотрим 100% Мужское 
 https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
-#EXTINF:-1 group-title="☺ 777", Смотрим 100% Праздник 
+#EXTINF:-1 group-title="☺ КІНО", Смотрим 100% Праздник 
 https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
-#EXTINF:-1 group-title="☺ 777", Смотрим 100% Детское
+#EXTINF:-1 group-title="☺ КІНО", Смотрим 100% Детское
 https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
-#EXTINF:-1 group-title="☺ 777", Смотрим 100% Факты
+#EXTINF:-1 group-title="☺ КІНО", Смотрим 100% Факты
 https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 #EXTINF:-1 group-title="☺ КІНО", Смотрим Честный детектив 
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
@@ -2677,14 +2672,18 @@ https://cityeden.catcast.tv/content/46421/index.m3u8
 https://cityeden.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 group-title="☺ КІНО", Viasat Kino Comedy
 http://ukr.ukrainske.tv/493/tvainua/video.m3u8
+#EXTINF:-1 group-title="☺ ХОББИ",MM Микромир HD
+http://178.63.98.119:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="☺ ХОББИ",MM Макромир HD
+http://178.63.98.119:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="☺ ХОББИ",MM Мегамир HD
+http://178.63.98.119:8000/play/a023/index.m3u8
 #EXTINF:-1 group-title="☺ ХОББИ", Загородная жизнь
 http://185.57.68.33/40/mpegts
 #EXTINF:-1 group-title="☺ ХОББИ", Усадьба
 https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="☺ ХОББИ", Просвещение
 https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
-#EXTINF:-1 group-title="☺ ХОББИ", ВОПРОСЫ И ОТВЕТЫ
-http://188.225.31.197/bpk-tv/000000195/tve/index.m3u8
 #EXTINF:-1 group-title="☺ ХОББИ", Большая Азия
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="☺ ХОББИ", Глазами туриста
