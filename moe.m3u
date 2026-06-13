@@ -1350,13 +1350,23 @@ http://streamer.enchart.one/42/c34bcdb0a22bdd610d3ce4c983a32d9ea19b3795/269/stre
 #EXTINF:-1 group-title="☺ СПОРТ", СУСПІЛЬНЕ СПОРТ
 https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/Suspilne-Sport/master.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", Т SETANTA SPORTS 1
-http://ip1.orgip.net/220/video.m3u8?token=A37feb3eec
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/FU4CGXPMSELRBH9ZM8WPEQN6/6541/index.m3u8
+
 #EXTINF:-1 group-title="☺ СПОРТ", Т SETANTA SPORTS 2
-http://ip1.orgip.net/221/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS UKRAINE
-http://178.63.98.119:8000/play/a01m/index.m3u8
-#EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS 2 UKRAINE
-http://178.63.98.119:8000/play/a01n/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/FU4CGXPMSELRBH9ZM8WPEQN6/6542/index.m3u8
+
+#EXTINF:-1 group-title="☺ СПОРТ", Т SETANTA SPORTS 1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/FU4CGXPMSELRBH9ZM8WPEQN6/271/index.m3u8
+
+#EXTINF:-1 group-title="☺ СПОРТ", Т SETANTA SPORTS 2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/FU4CGXPMSELRBH9ZM8WPEQN6/270/index.m3u8
+
+#EXTINF:-1 group-title="☺ СПОРТ", Т SETANTA SPORTS UKRAINE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/FU4CGXPMSELRBH9ZM8WPEQN6/15183/index.m3u8
+
+#EXTINF:-1 group-title="☺ СПОРТ", Т SETANTA SPORTS 2 UKRAINE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/FU4CGXPMSELRBH9ZM8WPEQN6/15184/index.m3u8
+
 #EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS 1 HD
 https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS 2 HD
@@ -1365,22 +1375,22 @@ https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 http://streamer.enchart.one/42/c34bcdb0a22bdd610d3ce4c983a32d9ea19b3795/186/stream.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS+ HD (UA) Т
 http://streamer.enchart.one/42/c34bcdb0a22bdd610d3ce4c983a32d9ea19b3795/187/stream.m3u8
-#EXTINF:-1 group-title="ОБИТ",Setanta Qazaqstan
+#EXTINF:-1 group-title="☺ СПОРТ",Setanta Qazaqstan
 http://37.46.49.14:18010/play/a03h/index.m3u8
-#EXTINF:-1 group-title="ОБИТ",Sport Plus Kazakhstan
+#EXTINF:-1 group-title="☺ СПОРТ",Sport Plus Kazakhstan
 http://37.46.49.14:18010/play/a056/index.m3u8
-#EXTINF:-1 group-title="ОБИТ",Setanta Sport Eurasia
+#EXTINF:-1 group-title="☺ СПОРТ",Setanta Sport Eurasia
 http://37.46.49.14:18010/play/a03f/index.m3u8
-#EXTINF:-1 group-title="ОБИТ",Setanta Sport Eurasia Plus
+#EXTINF:-1 group-title="☺ СПОРТ",Setanta Sport Eurasia Plus
 http://37.46.49.14:18010/play/a03g/index.m3u8
-#EXTINF:-1 group-title="ОБИТ",QAZSPORT HD
+#EXTINF:-1 group-title="☺ СПОРТ",QAZSPORT HD
 http://37.46.49.14:18010/play/a04c/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports 1 Georgia
+#EXTINF:-1 group-title="☺ СПОРТ",Setanta Sports 1 Georgia
 #EXTVLCOPT:audio-language=rus 
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports 2 Georgia
+#EXTINF:-1 group-title="☺ СПОРТ",Setanta Sports 2 Georgia
 http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
-#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports 3 Georgia
+#EXTINF:-1 group-title="☺ СПОРТ",Setanta Sports 3 Georgia
 http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
 #EXTINF:-1 group-title="☺ СПОРТ", XSPORT
 http://31.43.48.248:7000/ch109/video.m3u8
@@ -1452,28 +1462,8 @@ http://iptv.prosto.tv:7000/ch111/video.m3u8
 http://iptv.prosto.tv:7000/ch326/video.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", EQUALYMPIC
 http://31.43.48.248:7000/ch215/video.m3u8
-#EXTINF:-1 group-title="☺ СПОРТ", т UPL.TV
-http://ip1.orgip.net/212/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="☺ СПОРТ", т VIJU+ SPORT
-http://ip1.orgip.net/215/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="☺ СПОРТ", т XSPORT
-http://ip1.orgip.net/217/video.m3u8?token=A37feb3eec
 #EXTINF:-1 group-title="☺ СПОРТ", MEGOGO СПОРТ
 http://5.188.159.128:8070/megogo_sport/index.m3u8
-#EXTINF:-1 group-title="☺ СПОРТ", т MEGOGO СПОРТ HD
-http://ip1.orgip.net/237/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="☺ СПОРТ", т MEGOGO ФУТБОЛ 1 HD
-http://ip1.orgip.net/233/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="☺ СПОРТ", т MEGOGO ФУТБОЛ 2 HD
-http://ip1.orgip.net/234/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="☺ СПОРТ", т MEGOGO ФУТБОЛ 3 HD
-http://ip1.orgip.net/235/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="☺ СПОРТ", т ОККО ПРАЙМ СПОРТ
-http://ip1.orgip.net/236/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="☺ СПОРТ", т ОККО СПОРТ HD
-http://ip1.orgip.net/238/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="☺ СПОРТ", т ОККО ФУТБОЛ HD
-http://ip1.orgip.net/232/video.m3u8?token=A37feb3eec
 #EXTINF:-1 group-title="☺ СПОРТ", VITAL DRIVE
 http://tv.a21network.ru/content/37909/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", VITAL DRIVE
@@ -2538,12 +2528,6 @@ http://hls127.freeott.top:8080/Mosfilm/video.m3u8
 http://178.134.1.158:8081/mosfilm/index.m3u8
 #EXTINF:-1 group-title="☺ КІНО", Советское кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
-#EXTINF:-1 group-title="☺ КІНО", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
-http://46.53.208.4:80/live/1124.m3u8
-#EXTINF:-1 group-title="☺ КІНО", Классика кино
-http://46.53.208.4/live/3006.m3u8
-#EXTINF:-1 group-title="☺ КІНО", Феникс Плюс Кино
-http://46.53.208.4/live/332.m3u8
 #EXTINF:-1 group-title="☺ КІНО", РЕТРО
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 group-title="☺ КІНО", НОСТАЛЬГИЯ
@@ -2786,8 +2770,6 @@ http://31.43.48.248:7000/ch139/video.m3u8
 http://tv.ttk.mx:9023
 #EXTINF:-1 group-title="☺ МУЗИКА", ШАНСОН
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="☺ 777", АНЕКДОТ
-https://fl1001.bozztv.com/ushba81/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="☺ 777", Анекдот ТВ
 http://188.225.31.197/bpk-tv/000001921/tve/index.m3u8
 #EXTINF:-1 group-title="☺ 777", ТВОЁ ТВ ЮМОР
@@ -2797,7 +2779,7 @@ http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
 #EXTINF:-1 group-title="☺ 777", ТВОЁ ТВ
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="☺ 777", ВОПРОСЫ И ОТВЕТЫ
-http://178.212.71.253:8080/play/97/index.m3u8
+https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="☺ 777", ЕРАЛАШ
 http://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="☺ 777", КВН ТВ
