@@ -1396,20 +1396,14 @@ http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
 http://31.43.48.248:7000/ch109/video.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", XSPORT +
 http://31.43.48.248:7000/ch117/video.m3u8
-#EXTINF:-1 group-title="☺ СПОРТ", EUROSPORT 1
-http://77.245.98.18:8000/play/a00h
-#EXTINF:-1 group-title="☺ СПОРТ", EUROSPORT 1
-http://176.96.241.40/Eurosport1/index.m3u8
-#EXTINF:-1 group-title="☺ СПОРТ", EUROSPORT 2
-http://176.96.241.40/Eurosport2/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ",Eurosport 1
 http://46.32.176.50/eurosport/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ",Eurosport 2
 http://46.32.176.50/eurosport2/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ",Eurosport 1
-http://178.134.1.158:8081/eurosport/index.m3u8
-#EXTINF:-1 group-title="☺ СПОРТ",Eurosport 2 HD
-http://85.117.37.41/eurosport2/index.m3u8
+http://37.186.70.39:40/play/111/index.m3u8 
+#EXTINF:-1 group-title="☺ СПОРТ",Eurosport 2 
+http://37.186.70.39:40/play/112/index.m3u8 
 #EXTINF:-1 group-title="☺ СПОРТ", РУССКИЙ ЭКСТРИМ
 http://85.208.223.249:8888/play/a004
 #EXTINF:-1 group-title="☺ СПОРТ", МАТЧ ТВ
@@ -1429,11 +1423,11 @@ http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", ФУТБОЛ
 http://hls127.freeott.top:8080/Football/video.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", МАТЧ! ФУТБОЛ 1
-http://37.46.49.14:18010/play/a09d/index.m3u8
+http://37.186.70.39:40/play/81/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", МАТЧ! ФУТБОЛ 2
-http://37.46.49.14:18010/play/a09e/index.m3u8
+http://37.186.70.39:40/play/82/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", МАТЧ! ФУТБОЛ 3
-http://37.46.49.14:18010/play/a09f/index.m3u8
+http://37.186.70.39:40/play/92/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", БОКС ТВ
 http://158.101.222.193:88/georgia_play.php?id=boxtv
 #EXTINF:-1 group-title="☺ СПОРТ", VIJU+ SPORT
@@ -2769,6 +2763,8 @@ http://31.43.48.248:7000/ch139/video.m3u8
 #EXTINF:-1 group-title="☺ МУЗИКА", ТНТ-МУЗЫКА
 http://tv.ttk.mx:9023
 #EXTINF:-1 group-title="☺ МУЗИКА", ШАНСОН
+http://37.186.70.39:40/play/86/index.m3u8 
+#EXTINF:-1 group-title="☺ МУЗИКА", ШАНСОН
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="☺ 777", Анекдот ТВ
 http://188.225.31.197/bpk-tv/000001921/tve/index.m3u8
@@ -2778,12 +2774,16 @@ http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
 #EXTINF:-1 group-title="☺ 777", ТВОЁ ТВ
 http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 group-title="☺ 777", Игры разумов
+http://37.186.70.39:40/play/106/index.m3u8 
 #EXTINF:-1 group-title="☺ 777", ВОПРОСЫ И ОТВЕТЫ
 https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="☺ 777", ЕРАЛАШ
 http://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="☺ 777", КВН ТВ
 http://158.101.222.193:88/georgia_play.php?id=kvntv
+#EXTINF:-1 group-title="☺ 777", Тайны Чапман
+http://37.186.70.39:40/play/30/index.m3u8 
 #EXTINF:-1 group-title="☺ 777", KVARTAL
 http://31.43.48.248:7000/ch65/video.m3u8
 #EXTINF:-1 group-title="☺ 777", ЖД
