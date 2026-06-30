@@ -1368,30 +1368,13 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/FU4CGXPMSELRBH9ZM8WPEQN6
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/FU4CGXPMSELRBH9ZM8WPEQN6/15184/index.m3u8
 
 #EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS 1 HD
-https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS 2 HD
-https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS HD (UA) Т
 http://streamer.enchart.one/42/c34bcdb0a22bdd610d3ce4c983a32d9ea19b3795/186/stream.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS+ HD (UA) Т
 http://streamer.enchart.one/42/c34bcdb0a22bdd610d3ce4c983a32d9ea19b3795/187/stream.m3u8
-#EXTINF:-1 group-title="☺ СПОРТ",Setanta Qazaqstan
-http://37.46.49.14:18010/play/a03h/index.m3u8
-#EXTINF:-1 group-title="☺ СПОРТ",Sport Plus Kazakhstan
-http://37.46.49.14:18010/play/a056/index.m3u8
-#EXTINF:-1 group-title="☺ СПОРТ",Setanta Sport Eurasia
-http://37.46.49.14:18010/play/a03f/index.m3u8
-#EXTINF:-1 group-title="☺ СПОРТ",Setanta Sport Eurasia Plus
-http://37.46.49.14:18010/play/a03g/index.m3u8
-#EXTINF:-1 group-title="☺ СПОРТ",QAZSPORT HD
-http://37.46.49.14:18010/play/a04c/index.m3u8
-#EXTINF:-1 group-title="☺ СПОРТ",Setanta Sports 1 Georgia
-#EXTVLCOPT:audio-language=rus 
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-#EXTINF:-1 group-title="☺ СПОРТ",Setanta Sports 2 Georgia
-http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
-#EXTINF:-1 group-title="☺ СПОРТ",Setanta Sports 3 Georgia
-http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
 #EXTINF:-1 group-title="☺ СПОРТ", XSPORT
 http://31.43.48.248:7000/ch109/video.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", XSPORT +
