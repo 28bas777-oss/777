@@ -1367,10 +1367,28 @@ http://stream.mcquack.net/390/index.m3u8
 https://stream1.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS 2 HD
 https://stream1.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS 1 HD
+https://stream1.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS 2 HD
+https://stream1.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS HD (UA) Т
 http://streamer.enchart.one/42/c34bcdb0a22bdd610d3ce4c983a32d9ea19b3795/186/stream.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS+ HD (UA) Т
 http://streamer.enchart.one/42/c34bcdb0a22bdd610d3ce4c983a32d9ea19b3795/187/stream.m3u8
+#EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS 1 HD
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/271/index.m3u8
+#EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS 2 HD
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/270/index.m3u8
+#EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS 1 HD kz
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/16026/index.m3u8
+#EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS 2 HD kz
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/16025/index.m3u8
+#EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS HD (UA) 
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/272/index.m3u8
+#EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS+ HD (UA)
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/5068/index.m3u8
+#EXTINF:-1 group-title="☺ СПОРТ", Окко Футбол HD
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/6554/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", XSPORT
 http://31.43.48.248:7000/ch109/video.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", XSPORT +
@@ -1402,11 +1420,11 @@ http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", ФУТБОЛ
 http://hls127.freeott.top:8080/Football/video.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", МАТЧ! ФУТБОЛ 1
-http://37.186.70.39:40/play/81/index.m3u8
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/10015/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", МАТЧ! ФУТБОЛ 2
-http://37.186.70.39:40/play/82/index.m3u8
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/10027/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", МАТЧ! ФУТБОЛ 3
-http://37.186.70.39:40/play/92/index.m3u8
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/10016/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", БОКС ТВ
 http://158.101.222.193:88/georgia_play.php?id=boxtv
 #EXTINF:-1 group-title="☺ СПОРТ", VIJU+ SPORT
