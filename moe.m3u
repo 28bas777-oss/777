@@ -1349,6 +1349,8 @@ http://streamer.enchart.one/42/c34bcdb0a22bdd610d3ce4c983a32d9ea19b3795/368/stre
 http://streamer.enchart.one/42/c34bcdb0a22bdd610d3ce4c983a32d9ea19b3795/269/stream.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", СУСПІЛЬНЕ СПОРТ
 https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/Suspilne-Sport/master.m3u8
+#EXTINF:-1 group-title="☺ СПОРТ", Megogo Спорт HD
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31612/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", Dynamo Kyiv TV
 http://stream.mcquack.net/396/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", Т SETANTA SPORTS 1
