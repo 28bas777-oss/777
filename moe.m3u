@@ -1365,10 +1365,15 @@ http://stream.mcquack.net/235/index.m3u8
 http://stream.mcquack.net/313/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS 2 UKRAINE
 http://stream.mcquack.net/390/index.m3u8
-#EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS 1 HD
-https://stream1.cinerama.uz/1263/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS 2 HD
-https://stream1.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="☺ СПОРТ", Setanta Sports 1
+http://stream.mcquack.net/234/index.m3u8
+#EXTINF:-1 group-title="☺ СПОРТ", Setanta Sports 2
+http://stream.mcquack.net/235/index.m3u8
+#EXTINF:-1 group-title="☺ СПОРТ", Setanta Sports UA
+http://stream.mcquack.net/313/index.m3u8
+#EXTINF:-1 group-title="☺ СПОРТ", Setanta Sports+
+http://stream.mcquack.net/390/index.m3u8
+
 #EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS 1 HD
 https://stream1.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS 2 HD
@@ -1385,6 +1390,10 @@ http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/270/index.m3u8
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/16026/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS 2 HD kz
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/16025/index.m3u8
+#EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS 1 HD kz halvatv 
+https://cdn.kinolar.workers.dev/SetantaHD/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS 2 HD kz halvatv 
+https://cdn.kinolar.workers.dev/SetantaEurasia2HD/mono.m3u8?key=halvatv
 #EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS HD (UA) 
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/272/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS+ HD (UA)
@@ -1396,13 +1405,13 @@ http://31.43.48.248:7000/ch109/video.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", XSPORT +
 http://31.43.48.248:7000/ch117/video.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ",Eurosport 1
-http://46.32.176.50/eurosport/index.m3u8
+http://stream.mcquack.net/176/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ",Eurosport 2
-http://46.32.176.50/eurosport2/index.m3u8
+http://stream.mcquack.net/192/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ",Eurosport 1
-http://37.186.70.39:40/play/111/index.m3u8 
+http://89.33.29.115:8080/Eurosport_HD/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ",Eurosport 2 
-http://37.186.70.39:40/play/112/index.m3u8 
+http://89.33.29.115:8080/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", РУССКИЙ ЭКСТРИМ
 http://85.208.223.249:8888/play/a004
 #EXTINF:-1 group-title="☺ СПОРТ", МАТЧ ТВ
@@ -1461,14 +1470,6 @@ http://5.188.159.128:8070/megogo_sport/index.m3u8
 http://tv.a21network.ru/content/37909/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", VITAL DRIVE
 http://autopilot.catcast.tv/content/37909/index.m3u8
-#EXTINF:-1 group-title="☺ СПОРТ", SPORT 1 HD
-http://87.246.54.249:8080/ArenaSport1/index.m3u8
-#EXTINF:-1 group-title="☺ СПОРТ", SPORT 2 HD
-http://87.246.54.249:8080/ArenaSport2/index.m3u8
-#EXTINF:-1 group-title="☺ СПОРТ", SPORT 3 HD
-http://87.246.54.249:8080/ArenaSport3/index.m3u8
-#EXTINF:-1 group-title="☺ СПОРТ", SPORT 4 HD
-http://87.246.54.249:8080/ArenaSport4/index.m3u8
 #EXTINF:-1 group-title="☺ УКРАЇНА", СУСПІЛЬНЕ ХАРКІВ
 http://176.122.99.7:7000/ch0232/video.m3u8
 #EXTINF:-1 group-title="☺ УКРАЇНА", ПЕРШИЙ
@@ -1973,12 +1974,6 @@ http://31.43.48.248:7000/ch345/video.m3u8
 http://31.43.48.248:7000/ch347/video.m3u8
 #EXTINF:-1 group-title="☺ RELAX", НІЧ
 http://31.43.48.248:7000/ch349/video.m3u8
-#EXTINF:-1 group-title="☺ С САЙТОВ", ПОБЕДА
-https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b5128000_slru.m3u8
-#EXTINF:-1 group-title="☺ С САЙТОВ", БОБЕР
-https://pkvc-hls3.cdnvideo.ru/Bober/smil:Bober.smil/chunklist_b5128000_slru.m3u8
-#EXTINF:-1 group-title="☺ С САЙТОВ", TOP SECRET
-https://live-sovsec-ref.cdnvideo.ru/sovsec/sovsec.smil/playlist.m3u8?zoid=sref
 #EXTINF:-1 group-title="☺ С САЙТОВ", БЕЛАРУСЬ 24
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="☺ С САЙТОВ", СТВ
@@ -1993,14 +1988,10 @@ https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_slen
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="☺ С САЙТОВ", ОНТ HD
 https://edge53.dc.beltelecom.by/ont/_definst_/ont/chunklist_w741300442.m3u8
-#EXTINF:-1 group-title="☺ С САЙТОВ", НОВОЕ ТЕЛЕВИДЕНИЕ
-https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8
 #EXTINF:-1 group-title="☺ С САЙТОВ", СФЕРА ТВ
 https://cdn10.live-tv.cloud/sferarv/sferarv-abr/sferarv/720p/chunks.m3u8
 #EXTINF:-1 group-title="☺ С САЙТОВ", ОСН
 https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
-#EXTINF:-1 group-title="☺ С САЙТОВ", SILK WAY
-https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 #EXTINF:-1 group-title="☺ С САЙТОВ", ДОЖДЬ HD
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:-1 group-title="☺ С САЙТОВ", НАСТОЯЩЕЕ ВРЕМЯ
@@ -2009,8 +2000,6 @@ https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 https://iptv-hls.idc.md/hls/2/live1.m3u8
 #EXTINF:-1 group-title="☺ С САЙТОВ", ТВ7+
 https://tv7plus.com/hls/tv7_site.m3u8
-#EXTINF:-1 group-title="☺ С САЙТОВ", ГІТ
-https://stream.uagit.tv/gittv.m3u8
 #EXTINF:-1 group-title="☺ С САЙТОВ", НТК ТВ
 https://stream.ntktv.ua/s/ntk/ntk.m3u8
 #EXTINF:-1 group-title="☺ С САЙТОВ", МТМ
@@ -2727,20 +2716,8 @@ http://31.43.48.248:7000/ch79/video.m3u8
 http://31.43.48.248:7000/ch208/video.m3u8
 #EXTINF:-1 group-title="☺ ДЕТСКИЕ", ПОВНИЙМУЛЬТ
 http://31.43.48.248:7000/ch342/video.m3u8
-#EXTINF:-1 group-title="☺ ДЕТСКИЕ", УНИКУМ
-http://tv.ttk.mx:9026
 #EXTINF:-1 group-title="☺ ДЕТСКИЕ", МУЛЬТ
 https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="☺ ДЕТСКИЕ", ДЕТСКИЙ МИР
-http://tv.ttk.mx:9063
-#EXTINF:-1 group-title="☺ ДЕТСКИЕ", ANI
-http://tv.ttk.mx:9049
-#EXTINF:-1 group-title="☺ ДЕТСКИЕ", МУЛЬТ И МУЗЫКА
-http://tv.ttk.mx:9045
-#EXTINF:-1 group-title="☺ ДЕТСКИЕ", VIASAT DAVINCI
-http://tv.ttk.mx:9188
-#EXTINF:-1 group-title="☺ ДЕТСКИЕ", СУПЕРГЕРОИ
-http://tv.ttk.mx:9194
 #EXTINF:-1 group-title="☺ МУЗИКА", MEGOGO MUSIC
 http://31.43.48.248:7000/ch261/video.m3u8
 #EXTINF:-1 group-title="☺ МУЗИКА", M1
@@ -2759,8 +2736,6 @@ http://31.43.48.248:7000/ch134/video.m3u8
 http://31.43.48.248:7000/ch137/video.m3u8
 #EXTINF:-1 group-title="☺ МУЗИКА", CLASSIC MUSIC
 http://31.43.48.248:7000/ch139/video.m3u8
-#EXTINF:-1 group-title="☺ МУЗИКА", ТНТ-МУЗЫКА
-http://tv.ttk.mx:9023
 #EXTINF:-1 group-title="☺ МУЗИКА", ШАНСОН
 http://37.186.70.39:40/play/86/index.m3u8 
 #EXTINF:-1 group-title="☺ МУЗИКА", ШАНСОН
@@ -2789,51 +2764,106 @@ http://31.43.48.248:7000/ch65/video.m3u8
 http://31.43.48.248:7000/ch348/video.m3u8
 #EXTINF:-1 group-title="☺ 777", СОВЕРШЕННО СЕКРЕТНО
 http://hls127.freeott.top:8080/Sovershenno_Sekretno/mono.m3u8
+#EXTINF:-1 group-title="☺ 777", Невигадані Історії
+http://stream.mcquack.net/159/index.m3u8
+#EXTINF:-1 group-title="☺ 777", Машина Часу
+http://stream.mcquack.net/140/index.m3u8
+#EXTINF:-1 group-title="☺ 777", Знаєм 24
+http://stream.mcquack.net/145/index.m3u8
+#EXTINF:-1 group-title="☺ 777", Вікторина
+http://stream.mcquack.net/146/index.m3u8
+
 #EXTINF:-1 group-title="☺ 777", TINTO BRASS Т
 http://streamer.enchart.one/42/c34bcdb0a22bdd610d3ce4c983a32d9ea19b3795/3184/stream.m3u8
 #EXTINF:-1 group-title="☺ 777", P Classic
 http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
-#EXTINF:-1 group-title="☺ ТЕСТ", MM КАТАСТРОФА
-https://tinyurl.com/aleks-u-romki-53/13034/index.m3u8
-#EXTINF:-1 group-title="☺ ТЕСТ", MM ИСТОРИЯ
-https://tinyurl.com/aleks-u-romki-53/13033/index.m3u8
-#EXTINF:-1 group-title="☺ ТЕСТ", MM ЗАТМЕНИЕ
-https://tinyurl.com/aleks-u-romki-53/13032/index.m3u8
-#EXTINF:-1 group-title="☺ ТЕСТ", MM RELAX
-https://tinyurl.com/aleks-u-romki-53/13030/index.m3u8
-#EXTINF:-1 group-title="☺ ТЕСТ", MM ВОРОНИНЫ
-https://tinyurl.com/aleks-u-romki-53/13031/index.m3u8
-#EXTINF:-1 group-title="☺ ТЕСТ", MM HONEY
-https://tinyurl.com/aleks-u-romki-53/13026/index.m3u8
-#EXTINF:-1 group-title="☺ ТЕСТ", MM ГРАЙНД ХАУС
-https://tinyurl.com/aleks-u-romki-53/13025/index.m3u8
-#EXTINF:-1 group-title="☺ ТЕСТ", MM АГАТА КРИСТИ
-https://tinyurl.com/aleks-u-romki-53/13024/index.m3u8
-#EXTINF:-1 group-title="☺ ТЕСТ", MM WORLD
-https://tinyurl.com/aleks-u-romki-53/13023/index.m3u8
-#EXTINF:-1 group-title="☺ ТЕСТ", MM USSR КОМЕДИЯ HD
-https://tinyurl.com/aleks-u-romki-53/13019/index.m3u8
-#EXTINF:-1 group-title="☺ ТЕСТ", MM USSR ДЕТЕКТИВ HD
-https://tinyurl.com/aleks-u-romki-53/13096/index.m3u8
-#EXTINF:-1 group-title="☺ ТЕСТ", MM USSR ДРАМА HD
-https://tinyurl.com/aleks-u-romki-53/13022/index.m3u8
-#EXTINF:-1 group-title="☺ ТЕСТ", MM USSR 1941-1945 HD
-https://tinyurl.com/aleks-u-romki-53/13018/index.m3u8
-#EXTINF:-1 group-title="☺ ТЕСТ", MM USSR ПРИКЛЮЧЕНИЯ HD
-https://tinyurl.com/aleks-u-romki-53/13060/index.m3u8
-#EXTINF:-1 group-title="☺ ТЕСТ", MM USSR СКАЗКИ HD
-https://tinyurl.com/aleks-u-romki-53/13021/index.m3u8
-#EXTINF:-1 group-title="☺ ТЕСТ", MM USSR МУЛЬТФИЛЬМ HD
-https://tinyurl.com/aleks-u-romki-53/13020/index.m3u8
-#EXTINF:-1 group-title="☺ ТЕСТ", MM USSR МУЛЬТФИЛЬМ HD
-https://tinyurl.com/aleks-u-romki-47/13020/index.m3u8
-#EXTINF:-1 group-title="☺ ТЕСТ", MM СКОРОСТЬ HD
-http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
-#EXTINF:-1 group-title="☺ ТЕСТ", КИНОЗАЛ 👀 1
-https://tinyurl.com/aleks-u-romki-53/13027/index.m3u8
-#EXTINF:-1 group-title="☺ ТЕСТ", КИНОЗАЛ 👀 2
-https://tinyurl.com/aleks-u-romki-53/13028/index.m3u8
-#EXTINF:-1 group-title="☺ ТЕСТ", КИНОЗАЛ 👀 3
-https://tinyurl.com/aleks-u-romki-53/13029/index.m3u8
-#EXTINF:-1 group-title="☺ ТЕСТ", КИНОЗАЛ 👀 4
-http://185.57.68.33/237/mpegts
+
+#EXTINF:-1 group-title="Hetzner Online AG",.Red
+http://5.9.11.197:57419/chu-97/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",.Sci-fi
+http://5.9.11.197:57419/chu-99/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Amedia 1
+http://5.9.11.197:57419/chu-109/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Amedia 1 HD
+http://5.9.11.197:57419/chu-401/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Amedia 2 HD
+http://5.9.11.197:57419/chu-402/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Amedia Hit HD
+http://5.9.11.197:57419/chu-87/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Amedia Premium
+http://5.9.11.197:57419/chu-88/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Cinema
+http://5.9.11.197:57419/chu-89/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Ultra HD Cinema 4K
+http://5.9.11.197:57419/chu-387/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Fan HD
+http://5.9.11.197:57419/chu-404/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",FilmBox
+http://5.9.11.197:57419/chu-90/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Filmbox Arthouse
+http://5.9.11.197:57419/chu-91/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Fox
+http://5.9.11.197:57419/chu-92/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",PARAMOUNT COMEDY
+http://5.9.11.197:57419/chu-406/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Start Air HD
+http://5.9.11.197:57419/chu-1641/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",TV XXI
+http://5.9.11.197:57419/chu-100/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",TV1000
+http://5.9.11.197:57419/chu-103/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",TV1000 Action HD
+http://5.9.11.197:57419/chu-409/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",TV1000 HD
+http://5.9.11.197:57419/chu-410/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",TV1000 кино
+http://5.9.11.197:57419/chu-102/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",VIP Comedy
+http://5.9.11.197:57419/chu-104/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",VIP Megahit
+http://5.9.11.197:57419/chu-105/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",VIP Premiere
+http://5.9.11.197:57419/chu-106/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",ViP Serial
+http://5.9.11.197:57419/chu-107/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Дом кино
+http://5.9.11.197:57419/chu-111/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Дом кино премиум
+http://5.9.11.197:57419/chu-112/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Еврокино
+http://5.9.11.197:57419/chu-113/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Иллюзион+
+http://5.9.11.197:57419/chu-114/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Индия
+http://5.9.11.197:57419/chu-108/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Калейдоскоп ТВ
+http://5.9.11.197:57419/chu-116/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Кино ТВ
+http://5.9.11.197:57419/chu-117/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Индийское кино
+http://5.9.11.197:57419/chu-115/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Кинокомедия
+http://5.9.11.197:57419/chu-119/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Киномикс HD
+http://5.9.11.197:57419/chu-120/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Киносемья
+http://5.9.11.197:57419/chu-123/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Кинохит
+http://5.9.11.197:57419/chu-118/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Мужское кино
+http://5.9.11.197:57419/chu-128/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Наше новое кино
+http://5.9.11.197:57419/chu-132/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Мир сериала
+http://5.9.11.197:57419/chu-127/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",НСТ
+http://5.9.11.197:57419/chu-131/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Бестселлер
+http://5.9.11.197:57419/chu-135/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Иллюзион
+http://5.9.11.197:57419/chu-138/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Роман
+http://5.9.11.197:57419/chu-136/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Советское кино
+http://5.9.11.197:57419/chu-139/mpegts
+
