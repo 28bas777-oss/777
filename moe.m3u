@@ -1353,10 +1353,22 @@ https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/Suspilne-Sport/master.
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31612/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", Dynamo Kyiv TV
 http://stream.mcquack.net/396/index.m3u8
-#EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS 1 HD
-https://stream1.cinerama.uz/1263/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS 2 HD
-https://stream1.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="☺ СПОРТ", Sports 1 HD orig
+http://ab92cfb1.cbilant.com/iptv/N38U657879GPVVDFAYZ26AX5/6541/index.m3u8
+#EXTINF:-1 group-title="☺ СПОРТ", Sports 2 HD orig
+http://ab92cfb1.cbilant.com/iptv/N38U657879GPVVDFAYZ26AX5/6542/index.m3u8
+#EXTINF:-1 group-title="☺ СПОРТ", Setanta Sports 1
+http://ab92cfb1.cbilant.com/iptv/N38U657879GPVVDFAYZ26AX5/6543/index.m3u8
+#EXTINF:-1 group-title="☺ СПОРТ", Setanta Sports 2
+http://ab92cfb1.cbilant.com/iptv/N38U657879GPVVDFAYZ26AX5/6544/index.m3u8
+#EXTINF:-1 group-title="☺ СПОРТ", Setanta Sports UA
+http://ab92cfb1.cbilant.com/iptv/N38U657879GPVVDFAYZ26AX5/31754/index.m3u8
+#EXTINF:-1 group-title="☺ СПОРТ", Setanta Sports HD UA
+http://ab92cfb1.cbilant.com/iptv/N38U657879GPVVDFAYZ26AX5/31755/index.m3u8
+#EXTINF:-1 group-title="☺ СПОРТ", Setanta Sports+ UA
+http://ab92cfb1.cbilant.com/iptv/N38U657879GPVVDFAYZ26AX5/31756/index.m3u8
+#EXTINF:-1 group-title="☺ СПОРТ", Sports+ HD UA
+http://ab92cfb1.cbilant.com/iptv/N38U657879GPVVDFAYZ26AX5/31757/index.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS 1 HD Т 
 http://streamer.enchart.one/42/c34bcdb0a22bdd610d3ce4c983a32d9ea19b3795/181/stream.m3u8
 #EXTINF:-1 group-title="☺ СПОРТ", SETANTA SPORTS 2 HD Т 
